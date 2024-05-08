@@ -1,0 +1,210 @@
+{
+    "abt-buy-gs": [
+        {
+            "product 1": "{\"id\":\"abt_245\",\"name\":\"lg wm3431w all-in-one white washer and dryer combo wm3431wh\",\"description\":\"lg wm3431w all-in-one front load white washer and dryer combo wm3431wh 2.44 cu . ft. capacity neverust stainless steel drum 1400 rpm maximum spin speed ventless condensing drying system 9 wash programs 5 rinse temperatures lodecibel quiet operation upfront electronic controls with dial-a-cycle white finish\",\"price\":\"\",\"cluster_id\":849}",
+            "product 2": "\"id\":\"buy_215\",\"name\":\"lg electronics 24 ' washer\\/dryer combo : white\",\"description\":\"\",\"price\":\"\",\"cluster_id\":849}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_36\",\"name\":\"cuisinart automatic brew and serve coffeemaker dtc975bk\",\"description\":\"cuisinart automatic brew and serve coffeemaker dtc975bk 12-cup double-wall insulated stainless steel carafe fully automatic with 24-hour programmability patented brew-through and pour-through lid brew pause feature automatic shutoff black and stainless steel finish\",\"price\":99.95,\"cluster_id\":873}",
+            "product 2": "\"id\":\"buy_228\",\"name\":\"cuisinart brew & serve stainless therm black 10-cup coffee maker\",\"description\":\"\",\"price\":99.95,\"cluster_id\":873}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_410\",\"name\":\"apple 500gb time capsule wireless hard drive mb276lla\",\"description\":\"apple 500gb time capsule wireless hard drive mb276lla 500gb 7200-rpm serial ata server-grade hard disk drive up to 5x the performance and 2x the range with 802.11 n wi-fi protected access ( wpa\\/wpa2 ) wireless security ( wep ) configurable for 40-bit and 128-bit encryption nat firewall airport utility for mac and windows\",\"price\":299.0,\"cluster_id\":854}",
+            "product 2": "\"id\":\"buy_645\",\"name\":\"apple time capsule network hard drive mb277ll\\/a\",\"description\":\"1tb type a usb\",\"price\":439.0,\"cluster_id\":854}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_41\",\"name\":\"maytag bisque over-the-range microwave oven mmv4205bt\",\"description\":\"maytag bisque over-the-range microwave oven mmv4205bt 2.0 cu . ft. capacity 1,150 watts ten power levels 220 cfm airflow with two adjustable fan speeds scrolling vfd display twelve instant touch pads precision touch electronic controls digital display with clock and kitchen timer bisque finish\",\"price\":\"\",\"cluster_id\":896}",
+            "product 2": "\"id\":\"buy_811\",\"name\":\"maytag mmv4205baq over-the-range microwave\",\"description\":\"\",\"price\":\"\",\"cluster_id\":896}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_814\",\"name\":\"sony bud style headphones in silver mdred12lpslv\",\"description\":\"sony bud style headphones in silver mdred12lpslv 16mm drivers crisp sound neodymium magnets offer powerful sound reproduction convenient cord slider reduces tangles 3.9 ft. cord length frequency response of 8-22 ,000 hz silver finish\",\"price\":14.0,\"cluster_id\":934}",
+            "product 2": "\"id\":\"buy_702\",\"name\":\"bass lover earbuds slver mdred12lp\\/slv\",\"description\":\"\",\"price\":10.99,\"cluster_id\":934}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_322\",\"name\":\"apple mini-dvi to dvi adapter m9321gb\",\"description\":\"apple mini-dvi to dvi adapter m9321gb compatible with imac ( intel core duo ) , macbook and 12 ' powerbook g4 connects to an external dvi monitor or projector white finish\",\"price\":19.0,\"cluster_id\":967}",
+            "product 2": "\"id\":\"buy_156\",\"name\":\"apple dvi to mini-dvi video cable adapter m9321gb\",\"description\":\"mini-dvi male to 24-pin dvi-d ( digital ) male\",\"price\":19.99,\"cluster_id\":967}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_121\",\"name\":\"tivo wireless adapter ag0100\",\"description\":\"tivo wireless adapter ag0100 for use with a tivo series 2 only flip-up antenna optimized wireless performance\",\"price\":\"\",\"cluster_id\":147}",
+            "product 2": "\"id\":\"buy_371\",\"name\":\"tvio wireless usb network adpator\",\"description\":\"\",\"price\":\"\",\"cluster_id\":147}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_409\",\"name\":\"logitech dinovo media desktop laser keyboard and mouse combo 967562\",\"description\":\"logitech dinovo media desktop laser keyboard and mouse combo 967562 unique ultra-flat keyboard detached customizable mediapad precision rechargeable laser mouse tilt wheel plus zoom customizable hotkeys dedicated search buttons bluetooth wireless technology compatible black and gray finish\",\"price\":199.0,\"cluster_id\":257}",
+            "product 2": "\"id\":\"buy_96\",\"name\":\"logitech cordless desktop mx 5000 laser 967562-0403\",\"description\":\"keyboard wireless 104 keys mouse laser type a usb receiver\",\"price\":\"\",\"cluster_id\":257}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_281\",\"name\":\"tech craft dark cherry veneto series tv stand swp60\",\"description\":\"tech craft dark cherry veneto series tv stand swp60 60 ' wide credenza for flat panel tv?s and dlp?s center channel compartment and storage 260 lbs tv capacity 50 lbs shelf capacity dark cherry wood veneer finish\",\"price\":399.0,\"cluster_id\":978}",
+            "product 2": "\"id\":\"buy_280\",\"name\":\"techcraft swp60 classic wood tone credenza tv stand\",\"description\":\"wood walnut\",\"price\":\"\",\"cluster_id\":978}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_907\",\"name\":\"garmin nuvi 765t gps navigation system 0100071520\",\"description\":\"garmin nuvi 765t gps navigation system 0100071520 4.3 ' touchscreen widescreen display up to 5 hours sleek & slim design advanced navigation with lane assist bluetooth wireless fm traffic 3-d building view preloaded street maps for north america photo navigation speaks street names fm transmitter mp3 player route planning where am i ? garmin locate grey finish\",\"price\":\"\",\"cluster_id\":996}",
+            "product 2": "\"id\":\"buy_947\",\"name\":\"garmin auto nav 010-00715-20\",\"description\":\"\",\"price\":410.95,\"cluster_id\":996}"
+        }
+    ],
+    "walmart-amazon-gs": [
+        {
+            "product 1": "{\"id\":\"walmart_88\",\"title\":\"balt wheasel easel adjustable melamine dry erase board white\",\"category\":\"stationery & office machinery\",\"brand\":\"balt\",\"modelno\":\"33250\",\"price\":239.88,\"cluster_id\":463}",
+            "product 2": "\"id\":\"amazon_3269\",\"title\":\"balt inc. wheasel easel adjustable melamine dry erase board 28 3 4 x 59 1 2 white\",\"category\":\"laminating supplies\",\"brand\":\"mayline\",\"modelno\":\"\",\"price\":134.45,\"cluster_id\":463}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_498\",\"title\":\"t-mobile samsung sgh-t249 prepaid slider camera phone with bluetooth\",\"category\":\"prepaid wireless phones\",\"brand\":\"t-mobile\",\"modelno\":\"t249\",\"price\":49.84,\"cluster_id\":687}",
+            "product 2": "\"id\":\"amazon_5577\",\"title\":\"samsung t249 prepaid phone blue t-mobile\",\"category\":\"no-contract phones\",\"brand\":\"samsung\",\"modelno\":\"t239\",\"price\":59.99,\"cluster_id\":687}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2018\",\"title\":\"wintec filemate 4gb compactflash memory card\",\"category\":\"usb drives\",\"brand\":\"wintec\",\"modelno\":\"3fmcf4gb-r\",\"price\":15.98,\"cluster_id\":270}",
+            "product 2": "\"id\":\"amazon_11227\",\"title\":\"wintec filemate 32 gb s-professional compactflash card\",\"category\":\"memory cards\",\"brand\":\"wintec\",\"modelno\":\"3fmcf32gbs-r\",\"price\":79.99,\"cluster_id\":270}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1632\",\"title\":\"case logic high zoom camera case\",\"category\":\"mp3 accessories\",\"brand\":\"case logic\",\"modelno\":\"152256\",\"price\":17.59,\"cluster_id\":737}",
+            "product 2": "\"id\":\"amazon_20070\",\"title\":\"case logic dcb-304 high fixed zoom camera case black\",\"category\":\"cases bags\",\"brand\":\"case logic\",\"modelno\":\"dcb-304\",\"price\":12.4,\"cluster_id\":737}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_544\",\"title\":\"pny 2gb sd memory card\",\"category\":\"usb drives\",\"brand\":\"pny\",\"modelno\":\"p-sd2gb-fs\",\"price\":6.98,\"cluster_id\":752}",
+            "product 2": "\"id\":\"amazon_13664\",\"title\":\"pny optima 2gb sd class 4 flash memory card p-sd2gb-ef\",\"category\":\"memory cards\",\"brand\":\"pny\",\"modelno\":\"p-sd2gb-ef\",\"price\":3.97,\"cluster_id\":752}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1851\",\"title\":\"tp-link tl-ant2405cl 2.4 ghz 5dbi indoor omni-directional antenna\",\"category\":\"networking\",\"brand\":\"tp link\",\"modelno\":\"tl-ant2405cl\",\"price\":8.88,\"cluster_id\":766}",
+            "product 2": "\"id\":\"amazon_13348\",\"title\":\"tp-link tl-ant2405c 2.4 ghz 5dbi indoor desktop omni-directional antenna\",\"category\":\"networking products\",\"brand\":\"tp-link\",\"modelno\":\"tl-ant2405c\",\"price\":4.49,\"cluster_id\":766}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_201\",\"title\":\"seagate freeagent goflex 500gb usb 2.0 ultra-portable hard drive black\",\"category\":\"hard drives\",\"brand\":\"seagate\",\"modelno\":\"9zf2a2-570\",\"price\":71.07,\"cluster_id\":782}",
+            "product 2": "\"id\":\"amazon_6828\",\"title\":\"seagate freeagent goflex 500 gb usb 2.0 ultra-portable external hard drive staa500100 black\",\"category\":\"external hard drives\",\"brand\":\"seagate\",\"modelno\":\"staa500100\",\"price\":62.99,\"cluster_id\":782}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_108\",\"title\":\"imation 26607 rdx cartridge hard drive\",\"category\":\"hard drives\",\"brand\":\"imation\",\"modelno\":\"26607\",\"price\":117.84,\"cluster_id\":391}",
+            "product 2": "\"id\":\"amazon_12441\",\"title\":\"160gb cartridge for rdx govt series taa\",\"category\":\"\",\"brand\":\"imation\",\"modelno\":\"26718\",\"price\":156.83,\"cluster_id\":391}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1549\",\"title\":\"comprehensive 1 4 standard phone plug to 3-pin xlr jack set of 10\",\"category\":\"tv accessories\",\"brand\":\"comprehensive\",\"modelno\":\"spp-xlrj\",\"price\":79.9,\"cluster_id\":807}",
+            "product 2": "\"id\":\"amazon_18948\",\"title\":\"comprehensive premium - audio adapter - mini-phone 3.5 mm m - 3 pin xlr f\",\"category\":\"connectors adapters\",\"brand\":\"comprehensive video\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":807}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_861\",\"title\":\"chief manufacturing dual swing arm lcd wall mount\",\"category\":\"furniture\",\"brand\":\"chief manufacturing\",\"modelno\":\"\",\"price\":143.2,\"cluster_id\":820}",
+            "product 2": "\"id\":\"amazon_11942\",\"title\":\"chief fwdvb flat panel dual swing arm wall mount 10 -32 displays\",\"category\":\"selector boxes\",\"brand\":\"chief\",\"modelno\":\"fwd-vblack\",\"price\":69.99,\"cluster_id\":820}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2315\",\"title\":\"seiko slp-mrl multipurpose label\",\"category\":\"stationery & office machinery\",\"brand\":\"seiko\",\"modelno\":\"slp-mrl\",\"price\":14.88,\"cluster_id\":837}",
+            "product 2": "\"id\":\"amazon_9548\",\"title\":\"smart label printer multipurpose labels\",\"category\":\"audio video accessories\",\"brand\":\"seiko\",\"modelno\":\"\",\"price\":13.82,\"cluster_id\":837}"
+        }
+    ],
+    "amazon-google-gs": [
+        {
+            "product 1": "{\"id\":\"amazon_797\",\"title\":\"zero-g pro pack for garageband ( appleloops )\",\"manufacturer\":\"zero-g\",\"price\":169.95,\"cluster_id\":843}",
+            "product 2": "\"id\":\"google_2597\",\"title\":\"east west propack for garageband av production software\",\"manufacturer\":\"\",\"price\":152.96,\"cluster_id\":843}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_62\",\"title\":\"stomp inc drive washer\",\"manufacturer\":\"stomp inc\",\"price\":\"\",\"cluster_id\":847}",
+            "product 2": "\"id\":\"google_2127\",\"title\":\"drive washer 2005\",\"manufacturer\":\"\",\"price\":24.99,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1046\",\"title\":\"riverdeep kissing canines\",\"manufacturer\":\"riverdeep\",\"price\":\"\",\"cluster_id\":864}",
+            "product 2": "\"id\":\"google_2348\",\"title\":\"encore software 12491 encore kissing canines screen saver\",\"manufacturer\":\"\",\"price\":17.97,\"cluster_id\":864}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_531\",\"title\":\"microsoft windows server 2003 client additional license for users-5 pack\",\"manufacturer\":\"microsoft\",\"price\":809.0,\"cluster_id\":877}",
+            "product 2": "\"id\":\"google_2513\",\"title\":\"microsoft r18-00908 windows server 2003 client access license 20-pack ( per user )\",\"manufacturer\":\"microsoft\",\"price\":688.99,\"cluster_id\":877}"
+        }
+    ],
+    "dblp-scholar-gs": [
+        {
+            "product 1": "{\"id\":\"dblp_1363\",\"title\":\"the infosleuth project\",\"authors\":\"r jr. , w bohrer , r brice , a cichocki , j fowler , a helal , v kashyap , t ksiezyk , g martin , m nodine , m rashid , m rusinkiewicz , r shea , c unnikrishnan , a unruh , d woelk\",\"venue\":\"sigmod conference\",\"year\":1997,\"cluster_id\":2159}",
+            "product 2": "\"id\":\"scholar_26840\",\"title\":\"the infosleuth project .\",\"authors\":\"acms anthology , p edition\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":2159}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2489\",\"title\":\"efficiently publishing relational data as xml documents\",\"authors\":\"j shanmugasundaram , e shekita , r barr , m carey , b lindsay , h pirahesh , b reinwald\",\"venue\":\"vldb j.\",\"year\":2001,\"cluster_id\":402}",
+            "product 2": "\"id\":\"scholar_28636\",\"title\":\"efficiently publishing xml views of relational databases\",\"authors\":\"j shanmugasundaram , e shekita , r barr\",\"venue\":\"proc . of vldb ,\",\"year\":\"\",\"cluster_id\":402}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1133\",\"title\":\"cure : an efficient clustering algorithm for large databases\",\"authors\":\"s guha , r rastogi , k shim\",\"venue\":\"sigmod conference\",\"year\":1998,\"cluster_id\":302}",
+            "product 2": "\"id\":\"scholar_9322\",\"title\":\"cure : an efficient clustering algorithm for categorical attributes\",\"authors\":\"s guha , r rostogi , k shim\",\"venue\":\"proc . of 1998 acm-sigmod int . conf . on management of data ,\",\"year\":\"\",\"cluster_id\":302}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_746\",\"title\":\"minimization of tree pattern queries\",\"authors\":\"s amer-yahia , s cho , l lakshmanan , d srivastava\",\"venue\":\"sigmod conference\",\"year\":2001,\"cluster_id\":1183}",
+            "product 2": "\"id\":\"scholar_11508\",\"title\":\"minimization of tree patterns queries\",\"authors\":\"s flesca , f furfaro , e masciari\",\"venue\":\"proceedings of the 29th vldb conf ,\",\"year\":\"\",\"cluster_id\":1183}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1636\",\"title\":\"clustering categorical data : an approach based on dynamical systems\",\"authors\":\"d gibson , j kleinberg , p raghavan\",\"venue\":\"vldb\",\"year\":1998,\"cluster_id\":2103}",
+            "product 2": "\"id\":\"scholar_11068\",\"title\":\"clustering categorical data : an approach based on dynamical systems\",\"authors\":\"d gibson , j kleinberg , p raghavan\",\"venue\":\"the vldb journal the international journal on very large & hellip ; ,\",\"year\":2000.0,\"cluster_id\":2103}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_56\",\"title\":\"index concurrency control in firm real-time database systems\",\"authors\":\"b goyal , j haritsa , s seshadri , v srinivasan\",\"venue\":\"vldb\",\"year\":1995,\"cluster_id\":2007}",
+            "product 2": "\"id\":\"scholar_19504\",\"title\":\"index concurrency control in firm real-time databases\",\"authors\":\"sr narayanan\",\"venue\":\"\",\"year\":1997.0,\"cluster_id\":2007}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1353\",\"title\":\"novel approaches in query processing for moving object trajectories\",\"authors\":\"d pfoser , c jensen , y theodoridis\",\"venue\":\"vldb\",\"year\":2000,\"cluster_id\":1970}",
+            "product 2": "\"id\":\"scholar_60746\",\"title\":\"novel approaches in query proceedings for moving objects\",\"authors\":\"d pfoser , c jensen , y theodoridis\",\"venue\":\"proceedings of the 26th international conference on very & hellip ; ,\",\"year\":\"\",\"cluster_id\":1970}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2386\",\"title\":\"optimal clip ordering for multi-clip queries\",\"authors\":\"r ng , p shum\",\"venue\":\"vldb j.\",\"year\":1998,\"cluster_id\":38}",
+            "product 2": "\"id\":\"scholar_5774\",\"title\":\"optimal clip ordering for multi-clip queries\",\"authors\":\"p shum\",\"venue\":\"\",\"year\":1996.0,\"cluster_id\":38}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_139\",\"title\":\"the ecobase project : database and web technologies for environmental information systems\",\"authors\":\"a tanaka , p valduriez\",\"venue\":\"sigmod record\",\"year\":2001,\"cluster_id\":1326}",
+            "product 2": "\"id\":\"scholar_41345\",\"title\":\"the ecobase project : database and web technologies for environmental information systems '\",\"authors\":\"l bouganim\",\"venue\":\"acm sigmod record , september ,\",\"year\":2001.0,\"cluster_id\":1326}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_832\",\"title\":\"lh * rs : a high-availability scalable distributed data structure using reed solomon codes\",\"authors\":\"w litwin , t schwarz\",\"venue\":\"sigmod conference\",\"year\":2000,\"cluster_id\":720}",
+            "product 2": "\"id\":\"scholar_42380\",\"title\":\"lh * g : a high-availability scalable distributed data structure through record grouping\",\"authors\":\"w litwin , t risch\",\"venue\":\"res . rep. ceria , u. dauphine & u. linkoping ( may .\",\"year\":\"\",\"cluster_id\":720}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1930\",\"title\":\"standards for databases on the grid\",\"authors\":\"s malaika , a eisenberg , j melton\",\"venue\":\"sigmod record\",\"year\":2003,\"cluster_id\":1979}",
+            "product 2": "\"id\":\"scholar_46568\",\"title\":\"standards for databases on the grid\",\"authors\":\"gc introduction\",\"venue\":\"sigmod record ,\",\"year\":2003.0,\"cluster_id\":1979}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_832\",\"title\":\"lh * rs : a high-availability scalable distributed data structure using reed solomon codes\",\"authors\":\"w litwin , t schwarz\",\"venue\":\"sigmod conference\",\"year\":2000,\"cluster_id\":720}",
+            "product 2": "\"id\":\"scholar_59034\",\"title\":\"lh * g : a high-availability scalable distributed data structure through record grouping . with t.\",\"authors\":\"w litwin\",\"venue\":\"res . rep. ceria , u. dauphine & u. linkoping ( may . 1997 ) . (\",\"year\":\"\",\"cluster_id\":720}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1520\",\"title\":\"multi-dimensional resource scheduling for parallel queries\",\"authors\":\"m garofalakis , y ioannidis\",\"venue\":\"sigmod conference\",\"year\":1996,\"cluster_id\":1497}",
+            "product 2": "\"id\":\"scholar_47068\",\"title\":\"multi-resource parallel query scheduling and optimization\",\"authors\":\"mn garofalakis , ye ioannidis\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":538}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_288\",\"title\":\"data grid management systems\",\"authors\":\"a jagatheesan , a rajasekar\",\"venue\":\"sigmod conference\",\"year\":2003,\"cluster_id\":809}",
+            "product 2": "\"id\":\"scholar_20657\",\"title\":\"grid data management systems & services\",\"authors\":\"a jagatheesan , r moore\",\"venue\":\"proceedings of the international conference on very large & hellip ; ,\",\"year\":2003.0,\"cluster_id\":679}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2527\",\"title\":\"orthogonally persistent object systems\",\"authors\":\"m atkinson , r morrison\",\"venue\":\"vldb j.\",\"year\":1995,\"cluster_id\":236}",
+            "product 2": "\"id\":\"scholar_30655\",\"title\":\"mp and morris on , r. 1995 . orthogonally persistent systems\",\"authors\":\"on atkins\",\"venue\":\"the vldb\",\"year\":\"\",\"cluster_id\":236}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1324\",\"title\":\"similarity-based queries for time series data\",\"authors\":\"d rafiei , a mendelzon\",\"venue\":\"sigmod conference\",\"year\":1997,\"cluster_id\":1169}",
+            "product 2": "\"id\":\"scholar_19024\",\"title\":\"similarity-based queries for sequences data\",\"authors\":\"d rafiei , a mendelzon\",\"venue\":\"proc . of the acm sigmod conference on management of data (\",\"year\":\"\",\"cluster_id\":1169}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1738\",\"title\":\"rainforest - a framework for fast decision tree construction of large datasets\",\"authors\":\"j gehrke , r ramakrishnan , v ganti\",\"venue\":\"vldb\",\"year\":1998,\"cluster_id\":749}",
+            "product 2": "\"id\":\"scholar_7894\",\"title\":\"rainforest\\u00e2 ?? a framework for fast decision tree construction of large datasets\",\"authors\":\"j gehrke , r ramakrishnan , v ganti\",\"venue\":\"data mining and knowledge discovery ,\",\"year\":2000.0,\"cluster_id\":749}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1386\",\"title\":\"template-based wrappers in the tsimmis system\",\"authors\":\"j hammer , h garcia-molina , s nestorov , r yerneni , m breunig , v vassalos\",\"venue\":\"sigmod conference\",\"year\":1997,\"cluster_id\":491}",
+            "product 2": "\"id\":\"scholar_29479\",\"title\":\"template-based wrappers in the tsimmis experience\",\"authors\":\"j hammer , h garcia-molina , s nestorov , r yerneni ,\",\"venue\":\"proceedings of the acm sigmod international conference on\",\"year\":\"\",\"cluster_id\":491}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1060\",\"title\":\"query processing techniques for arrays\",\"authors\":\"a marathe , k salem\",\"venue\":\"sigmod conference\",\"year\":1999,\"cluster_id\":2059}",
+            "product 2": "\"id\":\"scholar_37291\",\"title\":\"query processing techniques for arrays\",\"authors\":\"ap marathe , k salem\",\"venue\":\"the vldb journal the international journal on very large & hellip ; ,\",\"year\":2002.0,\"cluster_id\":2059}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2332\",\"title\":\"data mining with optimized two-dimensional association rules\",\"authors\":\"t fukuda , y morimoto , s morishita , t tokuyama\",\"venue\":\"acm trans . database syst .\",\"year\":2001,\"cluster_id\":1017}",
+            "product 2": "\"id\":\"scholar_42751\",\"title\":\"optimized two dimensional optimization rules\",\"authors\":\"t fukuda , y morimoto , s morishita , t tokuyama\",\"venue\":\"proc . sigmod ,\",\"year\":\"\",\"cluster_id\":709}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2333\",\"title\":\"querying atsql databases with temporal logic\",\"authors\":\"j chomicki , d toman , m b\\u0456hlen\",\"venue\":\"acm trans . database syst .\",\"year\":2001,\"cluster_id\":1805}",
+            "product 2": "\"id\":\"scholar_59732\",\"title\":\"querying atsql databases with temporal logic\",\"authors\":\"fb vej , wl branch , o toronto\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":1805}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1409\",\"title\":\"the dangers of replication and a solution\",\"authors\":\"j gray , p helland , p o'neil , d shasha\",\"venue\":\"sigmod conference\",\"year\":1996,\"cluster_id\":532}",
+            "product 2": "\"id\":\"scholar_47782\",\"title\":\"the danger of replication and a solution\",\"authors\":\"g jim , h pat , o patrick , s dennis\",\"venue\":\"procs . of acm sigmod international conf . on management of\",\"year\":\"\",\"cluster_id\":532}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1705\",\"title\":\"ensuring relaxed atomicity for flexible transactions in multidatabase systems\",\"authors\":\"a zhang , m nodine , b bhargava , o bukhres\",\"venue\":\"sigmod conference\",\"year\":1994,\"cluster_id\":1733}",
+            "product 2": "\"id\":\"scholar_27506\",\"title\":\"ensuring semi-atomicity for flexible transactions in multi-database system\",\"authors\":\"a zhang , m nordine , b bhargava , o bukhres\",\"venue\":\"proc . sigmod\",\"year\":\"\",\"cluster_id\":1733}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1127\",\"title\":\"the wasa2 object-oriented workflow management system\",\"authors\":\"g vossen , m weske\",\"venue\":\"sigmod conference\",\"year\":1999,\"cluster_id\":2249}",
+            "product 2": "\"id\":\"scholar_56232\",\"title\":\"the wasa approach to workflow management for scientij\",\"authors\":\"g vossen , m weske\",\"venue\":\"applications . in : a. dogac , l. kahnichenko , mt zsu , a. sheth\",\"year\":\"\",\"cluster_id\":2249}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1489\",\"title\":\"prospector : a content-based multimedia server for massively parallel architectures\",\"authors\":\"s choo , w o'connell , g linderman , h chen , k ganapathi , a biliris , e panagos , d schrader\",\"venue\":\"sigmod conference\",\"year\":1996,\"cluster_id\":942}",
+            "product 2": "\"id\":\"scholar_20027\",\"title\":\"a content-based multimedia server for massively parallel architectures\",\"authors\":\"wo ` connell , it ieong , d schrader , c watson , g au ,\",\"venue\":\"sigmod conference ,\",\"year\":\"\",\"cluster_id\":942}"
+        }
+    ]
+}

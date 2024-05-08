@@ -1,0 +1,850 @@
+{
+    "abt-buy-gs": [
+        {
+            "product 1": "{\"id\":\"abt_692\",\"name\":\"lg 5.6 cu . ft. black freestanding electric range lre30453bk\",\"description\":\"lg 5.6 cu . ft. black freestanding electric range lre30453bk intuitouch control system evenjet convection system 5.6 cubic capacity wideview oven window 5 radiant elements 25 heating settings black finish\",\"price\":\"\",\"cluster_id\":756}",
+            "product 2": "\"id\":\"buy_785\",\"name\":\"lg 5.6 cu.ft . freestanding electric range\",\"description\":\"\",\"price\":\"\",\"cluster_id\":990}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_531\",\"name\":\"sony dvp-fx820 red 8 ' portable dvd player dvpfx820r\",\"description\":\"sony dvp-fx820 red 8 ' portable dvd player dvpfx820r swivel & flip screen with dual sensor for remote control control buttons on screen bezel 12 bit video dac with 108 mhz processing removable , rechargeable battery & car adapter included red finish\",\"price\":\"\",\"cluster_id\":675}",
+            "product 2": "\"id\":\"buy_879\",\"name\":\"sony dvpfx820 portable dvd player dvpfx820\\/w\",\"description\":\"8 ' lcd dvd + rw , dvd-rw , dvd + r , dvd-r , cd-rw dvd video , mp3 , jpeg playback 1 disc ( s ) progressive scan white\",\"price\":149.0,\"cluster_id\":342}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_727\",\"name\":\"omnimount stellar series audio tower g303dark\",\"description\":\"omnimount stellar series audio tower g303dark designed for large audio components supports tabletop flat panels three ? floating ? shelf design integrated cable management black finish\",\"price\":299.0,\"cluster_id\":872}",
+            "product 2": "\"id\":\"buy_257\",\"name\":\"omnimount 3-shelf large-component tower stellarg303g\",\"description\":\"\",\"price\":\"\",\"cluster_id\":190}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_673\",\"name\":\"lg stainless steel freestanding electric range lre30453ss\",\"description\":\"lg stainless steel freestanding electric range lre30453ss 5.6 cu . ft. capacity touch controls evenjet convection system wideview window 5 cooktop elements with warming zone auto recipe conversion self-cleaning gocook smart oven light storage drawer stainless steel finish\",\"price\":\"\",\"cluster_id\":246}",
+            "product 2": "\"id\":\"buy_785\",\"name\":\"lg 5.6 cu.ft . freestanding electric range\",\"description\":\"\",\"price\":\"\",\"cluster_id\":990}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_299\",\"name\":\"lg dle5955w white xl capacity electric dryer dle5955wh\",\"description\":\"lg dle5955w white xl capacity electric dryer dle5955wh 7.3 cu . ft. capacity 9 drying programs 5 temperature levels precise temperature control with variable heat source flowsense duct clogging indicator upfront electronic control panel with dual led display and dial-a-cycle lodecibel quiet operation white finish\",\"price\":\"\",\"cluster_id\":78}",
+            "product 2": "\"id\":\"buy_424\",\"name\":\"lg xl capacity electric dryer\",\"description\":\"\",\"price\":\"\",\"cluster_id\":178}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_37\",\"name\":\"sharp over the counter microwave oven r1214ss\",\"description\":\"sharp over the counter microwave oven r1214ss 1.5 cubic foot capacity 1100 watts 24 automatic settings 2-color lighted lcd smart and easy sensor settings auto-touch control panel stainless steel finish\",\"price\":429.0,\"cluster_id\":680}",
+            "product 2": "\"id\":\"buy_394\",\"name\":\"sharp 1100 watt over the counter microwave\",\"description\":\"\",\"price\":\"\",\"cluster_id\":359}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_328\",\"name\":\"panasonic expandable digital cordless dect 6.0 phone system kxtg1032s\",\"description\":\"panasonic expandable digital cordless dect 6.0 phone system kxtg1032s up to 17 hours of talk time expandable up to 6 handsets up to 3-way conference capability light-up indicator with ringer\\/message alert backlit lcd on handset digital speakerphone 16-minute all-digital answering system silver finish\",\"price\":69.0,\"cluster_id\":891}",
+            "product 2": "\"id\":\"buy_300\",\"name\":\"panasonic kx-tg1033s digital cordless phone with three handsets\",\"description\":\"1 x phone line ( s ) headset jack silver\",\"price\":\"\",\"cluster_id\":868}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_257\",\"name\":\"sony progressive scan silver dvd player dvpns57ps\",\"description\":\"sony dvp-ns57p progressive scan silver dvd player dvpns57ps precision drive 3 system mp3 playback on screen display dolby digital decoding silver finish\",\"price\":\"\",\"cluster_id\":239}",
+            "product 2": "\"id\":\"buy_351\",\"name\":\"sony dvpns57p dvd player dvpns57pb\",\"description\":\"dvd + rw , dvd-rw , dvd + r , dvd-r , cd-rw dvd video , svcd , video cd , jpeg , mp3 playback 1 disc ( s ) progressive scan black\",\"price\":39.0,\"cluster_id\":206}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_110\",\"name\":\"canon photo ink cartridge cl52\",\"description\":\"canon photo ink cartridge cl52 compatible with pixma ip6210d and ip6220d printers\",\"price\":25.0,\"cluster_id\":203}",
+            "product 2": "\"id\":\"buy_84\",\"name\":\"canon ink cartridge for pixma ip1600 , ip6210d and ip6220d printers 0617b002\",\"description\":\"color\",\"price\":19.11,\"cluster_id\":1012}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_690\",\"name\":\"lg stainless steel freestanding electric range lre30757ss\",\"description\":\"lg stainless steel freestanding electric range lre30757ss 5.6 cu . ft. capacity dual convection self-cleaning touch controls ceramic cooktop wideview window warming drawer interior oven light stainless steel finish\",\"price\":\"\",\"cluster_id\":209}",
+            "product 2": "\"id\":\"buy_785\",\"name\":\"lg 5.6 cu.ft . freestanding electric range\",\"description\":\"\",\"price\":\"\",\"cluster_id\":990}"
+        }
+    ],
+    "walmart-amazon-gs": [
+        {
+            "product 1": "{\"id\":\"walmart_1455\",\"title\":\"tops second nature subject wire notebook college rule 6 x 9-1 2 we 80 sheets\",\"category\":\"stationery & office machinery\",\"brand\":\"tops business forms\",\"modelno\":\"74109\",\"price\":5.54,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_14080\",\"title\":\"tops 74111 - second nature subject wirebound notebook college rule ltr we 80 sheets\",\"category\":\"printers\",\"brand\":\"tops\",\"modelno\":\"\",\"price\":24.3,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_421\",\"title\":\"pendaflex 2 reinforced hanging file folder standard green 25 box\",\"category\":\"stationery & office machinery\",\"brand\":\"\",\"modelno\":\"4152x2\",\"price\":24.94,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_17564\",\"title\":\"pendaflex rcy415215sgr - reinforced hanging file folders kraft letter standard green 25 box\",\"category\":\"printers\",\"brand\":\"pendaflex\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1833\",\"title\":\"scosche 1993-up select subaru power 4-speaker connector\",\"category\":\"car stereos\",\"brand\":\"scosche\",\"modelno\":\"su03b\",\"price\":9.88,\"cluster_id\":560}",
+            "product 2": "\"id\":\"amazon_5542\",\"title\":\"scosche su03rb 1993-up select subaru power 4-speaker connector\",\"category\":\"speaker connectors\",\"brand\":\"scosche\",\"modelno\":\"su03rb\",\"price\":15.18,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2080\",\"title\":\"alera valencia series reversible return bridge shell\",\"category\":\"furniture\",\"brand\":\"alera\",\"modelno\":\"va354824my\",\"price\":109.0,\"cluster_id\":496}",
+            "product 2": "\"id\":\"amazon_20626\",\"title\":\"alera tm va353624mc - valencia series reversible return bridge shell 36w x 24d x 29.5 h med cy\",\"category\":\"\",\"brand\":\"dealz4real\",\"modelno\":\"\",\"price\":123.26,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_51\",\"title\":\"wilson jones d-ring vinyl view binder\",\"category\":\"stationery & office machinery\",\"brand\":\"wilson jones\",\"modelno\":\"38544b\",\"price\":16.4,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_18173\",\"title\":\"wilson jones 38344b - basic vinyl d-ring binder 2 capacity black\",\"category\":\"\",\"brand\":\"wilson jones\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1722\",\"title\":\"prismacolor col-erase pencil with eraser 12 pack\",\"category\":\"stationery & office machinery\",\"brand\":\"\",\"modelno\":\"\",\"price\":6.47,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_3679\",\"title\":\"prismacolor 20516 - col-erase colored woodcase pencils w eraser 12 assorted colors set\",\"category\":\"accessory kits\",\"brand\":\"prismacolor\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1226\",\"title\":\"sony cyber-shot dsc-t110 16mp digital camera red w 4x optical zoom hd movie capture 3.0 touchscreen lcd w 50 bonus prints\",\"category\":\"digital cameras\",\"brand\":\"sony\",\"modelno\":\"dsc-t110 \\/ r\",\"price\":219.99,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_13482\",\"title\":\"sony cyber-shot dsc-t110 16.1 mp digital camera with 4x optical zoom and 3-inch touchscreen in silver 8gb accessory kit\",\"category\":\"point shoot digital cameras\",\"brand\":\"sony\",\"modelno\":\"dsc-t110\",\"price\":209.95,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_129\",\"title\":\"bushnell backtrack personal locator tech gray\",\"category\":\"handheld gps\",\"brand\":\"bushnell\",\"modelno\":\"\",\"price\":49.99,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_10595\",\"title\":\"bushnell 360053 gps backtrack personal locator tech gray kit with case and 4 aaa batteries\",\"category\":\"binoculars\",\"brand\":\"bushnell\",\"modelno\":\"360053\",\"price\":59.99,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_385\",\"title\":\"philips pop color headset pink\",\"category\":\"electronics - general\",\"brand\":\"philips\",\"modelno\":\"she2675bp\\/28\",\"price\":19.88,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_18965\",\"title\":\"new-philips she2675bp 28 pop color headset pink - phl2675bp\",\"category\":\"accessories supplies\",\"brand\":\"philips\",\"modelno\":\"\",\"price\":28.4,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2033\",\"title\":\"canon cli-221 magenta ink cartridge 2948b001\",\"category\":\"printers\",\"brand\":\"canon\",\"modelno\":\"cli221mag\",\"price\":16.84,\"cluster_id\":569}",
+            "product 2": "\"id\":\"amazon_19398\",\"title\":\"premium compatible canon cli-221 magenta ink cartridge canon 2948b001\",\"category\":\"inkjet printer ink\",\"brand\":\"compatible\",\"modelno\":\"\",\"price\":3.7,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_497\",\"title\":\"hon 310 series full-suspension file\",\"category\":\"storage\",\"brand\":\"hon\",\"modelno\":\"315cpp\",\"price\":549.0,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_18161\",\"title\":\"hon 315cpq - 310 series five-drawer full-suspension file legal 26-1 2d light gray\",\"category\":\"printers\",\"brand\":\"hon\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_856\",\"title\":\"da-lite hc cinema vision tensioned cosmopolitan electrol - av format 7 x 9 diagonal\",\"category\":\"electronics - general\",\"brand\":\"da-lite\",\"modelno\":\"89892\",\"price\":2240.0,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_2814\",\"title\":\"da-lite tensioned cosmopolitan electrol - projection screen motorized - 1 1 - cinema vision\",\"category\":\"projection screens\",\"brand\":\"da-lite\",\"modelno\":\"cosmopolitan electrol\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2508\",\"title\":\"sanus powerbridge in wall power and cable management\",\"category\":\"electronics - general\",\"brand\":\"sanus\",\"modelno\":\"\",\"price\":84.99,\"cluster_id\":18}",
+            "product 2": "\"id\":\"amazon_21866\",\"title\":\"sanus systems elm805-w1 power bridge in-wall power and cable management white\",\"category\":\"\",\"brand\":\"sanus\",\"modelno\":\"elm805-w1\",\"price\":72.0,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1613\",\"title\":\"pinnacle studio hd v15 ultimate collection pc\",\"category\":\"software\",\"brand\":\"avid technology\",\"modelno\":\"\",\"price\":119.0,\"cluster_id\":731}",
+            "product 2": "\"id\":\"amazon_7732\",\"title\":\"pinnacle studio hd v. 15\",\"category\":\"computers accessories\",\"brand\":\"avid\",\"modelno\":\"82103001801\",\"price\":44.99,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1506\",\"title\":\"wilson jones super heavy weight sheet protector\",\"category\":\"stationery & office machinery\",\"brand\":\"wilson jones\",\"modelno\":\"21402\",\"price\":10.94,\"cluster_id\":407}",
+            "product 2": "\"id\":\"amazon_17249\",\"title\":\"new-wilson jones 21400 - super heavy weight sheet protector clear 50 box - wlj21400\",\"category\":\"storage presentation materials\",\"brand\":\"wilson jones\",\"modelno\":\"\",\"price\":28.0,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_461\",\"title\":\"expo low-odor dry erase marker eraser cleaner chisel fine 12 set\",\"category\":\"stationery & office machinery\",\"brand\":\"expo\",\"modelno\":\"80054\",\"price\":21.94,\"cluster_id\":643}",
+            "product 2": "\"id\":\"amazon_17769\",\"title\":\"new-expo 83054 - dry erase marker eraser cleaner chisel fine assorted 12 set - san83054\",\"category\":\"radios\",\"brand\":\"expo\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1711\",\"title\":\"smead file folders 1 2 cut 1-ply top tab manila 100 box\",\"category\":\"stationery & office machinery\",\"brand\":\"\",\"modelno\":\"15320\",\"price\":34.05,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_13499\",\"title\":\"smead 10300 - file folders straight cut one-ply top tab letter manila 100 box\",\"category\":\"\",\"brand\":\"smead\",\"modelno\":\"\",\"price\":22.11,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_51\",\"title\":\"wilson jones d-ring vinyl view binder\",\"category\":\"stationery & office machinery\",\"brand\":\"wilson jones\",\"modelno\":\"38544b\",\"price\":16.4,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_19902\",\"title\":\"wilson jones 38349b - basic vinyl d-ring binder 3 capacity black\",\"category\":\"\",\"brand\":\"wilson jones\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_814\",\"title\":\"da-lite dual vision tensioned cosmopolitan electrol - av format 7 x 9 diagonal\",\"category\":\"electronics - general\",\"brand\":\"da-lite\",\"modelno\":\"84986\",\"price\":2346.99,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_20995\",\"title\":\"da-lite tensioned cosmopolitan electrol - projection screen rear motorized - da-tex\",\"category\":\"projection screens\",\"brand\":\"da-lite\",\"modelno\":\"cosmopolitan electrol\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2092\",\"title\":\"night owl zeus-810 16-channel h. 264 dvr kit with 1tb hard drive\",\"category\":\"electronics - general\",\"brand\":\"night owl\",\"modelno\":\"\",\"price\":773.82,\"cluster_id\":743}",
+            "product 2": "\"id\":\"amazon_13765\",\"title\":\"night owl security zeus-dvr 16-channel h. 264 dvr with d1 recording and hdmi\",\"category\":\"digital security recorders\",\"brand\":\"night owl optics\",\"modelno\":\"zeus-dvr\",\"price\":350.99,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2223\",\"title\":\"da-lite matte white gray carpeted picture king w keystone eliminator - hdtv format 92 diagonal\",\"category\":\"electronics - general\",\"brand\":\"da-lite\",\"modelno\":\"87062\",\"price\":343.99,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_6744\",\"title\":\"da-lite picture king hdtv format tripod screen with black carpeted housing 52 x 92 106 diagonal matte white surface\",\"category\":\"projection screens\",\"brand\":\"da-lite\",\"modelno\":\"\",\"price\":324.95,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1446\",\"title\":\"bic grip roller pen 0.5 mm black 1-dozen\",\"category\":\"stationery & office machinery\",\"brand\":\"bic\",\"modelno\":\"grem11-blk\",\"price\":10.99,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_11980\",\"title\":\"bic gre11bk - grip roller ball stick pen black ink fine dozen\",\"category\":\"storage presentation materials\",\"brand\":\"bic\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_523\",\"title\":\"roocase executive portfolio leather case stylus for asus eee pad transformer tf101 10.1-inch\",\"category\":\"electronics - general\",\"brand\":\"roocase\",\"modelno\":\"222057\",\"price\":55.99,\"cluster_id\":267}",
+            "product 2": "\"id\":\"amazon_1657\",\"title\":\"roocase multi-angle black leather folio case cover for asus eee pad transformer 10.1-inch tf101 android tablet wi-fi\",\"category\":\"cases sleeves\",\"brand\":\"roocase\",\"modelno\":\"\",\"price\":24.98,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_989\",\"title\":\"avery silhouette flexible poly view binder 1 capacity\",\"category\":\"stationery & office machinery\",\"brand\":\"avery\",\"modelno\":\"17232\",\"price\":5.86,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_2358\",\"title\":\"avery 17334 - silhouette poly view binder w inside pocket 1-1 2 capacity light blue\",\"category\":\"\",\"brand\":\"avery\",\"modelno\":\"\",\"price\":9.5,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_720\",\"title\":\"sunpak 67mm circular polarized filter\",\"category\":\"camera and camcorder accessories\",\"brand\":\"sunpak\",\"modelno\":\"cf-7061 cp\",\"price\":18.0,\"cluster_id\":339}",
+            "product 2": "\"id\":\"amazon_21218\",\"title\":\"new-67mm circular polarized filter - t43853\",\"category\":\"accessory kits\",\"brand\":\"sunpak\",\"modelno\":\"\",\"price\":111.0,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_51\",\"title\":\"wilson jones d-ring vinyl view binder\",\"category\":\"stationery & office machinery\",\"brand\":\"wilson jones\",\"modelno\":\"38544b\",\"price\":16.4,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_16399\",\"title\":\"new-wilson jones 38654w - basic d-ring vinyl view binder 4 capacity white - wlj38654w\",\"category\":\"projection screens\",\"brand\":\"wilson jones\",\"modelno\":\"\",\"price\":33.0,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2432\",\"title\":\"da-lite matte white advantage manual with csr - hdtv format 159 diagonal\",\"category\":\"electronics - general\",\"brand\":\"da-lite\",\"modelno\":\"85743\",\"price\":1080.63,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_10754\",\"title\":\"da-lite advantage manual with csr - projection screen - 1 1 - matte white\",\"category\":\"projection screens\",\"brand\":\"da-lite\",\"modelno\":\"\",\"price\":542.95,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1062\",\"title\":\"da-lite matte white advantage manual with csr - wide format 130 diagonal\",\"category\":\"electronics - general\",\"brand\":\"da-lite\",\"modelno\":\"34718\",\"price\":1060.99,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_6753\",\"title\":\"da-lite advantage manual with csr - projection screen - 1 1 - high power\",\"category\":\"projection screens\",\"brand\":\"da-lite\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1114\",\"title\":\"ifrogz ep timbre in walnut with mic\",\"category\":\"electronics - general\",\"brand\":\"ifrogz\",\"modelno\":\"epwbmicwalnut\",\"price\":34.82,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_19695\",\"title\":\"ifrogz earpollution timbre with mic light\",\"category\":\"wired headsets\",\"brand\":\"ifrogz\",\"modelno\":\"ep-wb-mic-light\",\"price\":18.48,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1459\",\"title\":\"sentry headart extreme folding headphones black\",\"category\":\"mp3 accessories\",\"brand\":\"sentry\",\"modelno\":\"sentry dj style bk\",\"price\":12.98,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_12118\",\"title\":\"sentry headart extreme folding headphones blue\",\"category\":\"headphones\",\"brand\":\"sentry\",\"modelno\":\"\",\"price\":15.99,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_732\",\"title\":\"paper mate sharpwriter mechanical pencils\",\"category\":\"stationery & office machinery\",\"brand\":\"paper mate\",\"modelno\":\"30376bpp\",\"price\":1.98,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_7755\",\"title\":\"pap3030131 - sharpwriter mechanical pencil\",\"category\":\"\",\"brand\":\"paper mate\",\"modelno\":\"\",\"price\":8.04,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_99\",\"title\":\"canon powershot a3300 is black 16.0 mp digital camera with 5x optical zoom 3.0 lcd 720p video w 50 bonus prints\",\"category\":\"digital cameras\",\"brand\":\"canon\",\"modelno\":\"5035b001aa\",\"price\":156.54,\"cluster_id\":686}",
+            "product 2": "\"id\":\"amazon_6551\",\"title\":\"canon powershot a3300 is 16 mp digital camera with 5x optical zoom red\",\"category\":\"point shoot digital cameras\",\"brand\":\"canon\",\"modelno\":\"a3300 ( red )\",\"price\":159.0,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1708\",\"title\":\"pendaflex straight cut conversion folders letter manila box of 100\",\"category\":\"stationery & office machinery\",\"brand\":\"\",\"modelno\":\"16640\",\"price\":33.94,\"cluster_id\":316}",
+            "product 2": "\"id\":\"amazon_16515\",\"title\":\"new-pendaflex h110 - straight cut end tab folders one ply 9 1 2 inch front letter manila 100 box - essh110\",\"category\":\"laminating supplies\",\"brand\":\"pendaflex\",\"modelno\":\"\",\"price\":37.0,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_921\",\"title\":\"platt heavy-duty polyethylene case with wheels and telescoping handle in gray 15 x 23 x 10\",\"category\":\"electronics - general\",\"brand\":\"platt\",\"modelno\":\"231510ahg\",\"price\":317.99,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_20935\",\"title\":\"221609h platt heavy-duty polyethylene case with wheels and telescoping handle\",\"category\":\"media storage organization\",\"brand\":\"platt\",\"modelno\":\"\",\"price\":270.9,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_931\",\"title\":\"crosley radio keepsake usb turntable tan\",\"category\":\"stereos\\/audio\",\"brand\":\"arkon\",\"modelno\":\"cr249-ta\",\"price\":118.0,\"cluster_id\":162}",
+            "product 2": "\"id\":\"amazon_12483\",\"title\":\"crosley cr249 bk keepsake usb turntable black\",\"category\":\"turntables\",\"brand\":\"crosley\",\"modelno\":\"cr249 bk\",\"price\":113.89,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_701\",\"title\":\"da-lite high contrast matte white advantage manual with csr - av format 6 x 8 diagonal\",\"category\":\"electronics - general\",\"brand\":\"da-lite\",\"modelno\":\"92695\",\"price\":765.45,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_6754\",\"title\":\"da-lite advantage manual with csr - projection screen - 1 1 - high power\",\"category\":\"projection screens\",\"brand\":\"da-lite\",\"modelno\":\"\",\"price\":709.95,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1155\",\"title\":\"ihome app-friendly rechargeable speaker system for ipad iphone ipod\",\"category\":\"electronics - general\",\"brand\":\"ihome\",\"modelno\":\"id9s\",\"price\":99.99,\"cluster_id\":844}",
+            "product 2": "\"id\":\"amazon_10865\",\"title\":\"ihome id8g ipad tm iphone r ipod r app-friendly rechargeable speaker system\",\"category\":\"storage presentation materials\",\"brand\":\"ihome\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2343\",\"title\":\"kodak m552 dark pink 14mp digital camera bundle w 5x optical zoom 2.7 lcd display w 50 bonus prints\",\"category\":\"digital cameras\",\"brand\":\"kodak\",\"modelno\":\"m552 pink bndl\",\"price\":109.0,\"cluster_id\":370}",
+            "product 2": "\"id\":\"amazon_10785\",\"title\":\"kodak easyshare m552 14mp digital camera with 5x optical zoom and 2.7-inch lcd in dark pink 4gb accessory kit\",\"category\":\"point shoot digital cameras\",\"brand\":\"kodak\",\"modelno\":\"m552\",\"price\":119.95,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_885\",\"title\":\"ampad evidence perf top legal red margin rule white 50-sheet pads pack dz .\",\"category\":\"stationery & office machinery\",\"brand\":\"ampad\",\"modelno\":\"20320\",\"price\":15.77,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_10037\",\"title\":\"ampad 20180 - evidence recycled perf top pad lgl margin rule lgl we 50-sheet pads dozen\",\"category\":\"printer accessories\",\"brand\":\"ampad\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1602\",\"title\":\"buddy products dr. pocket steel 3-pocket wall file black\",\"category\":\"stationery & office machinery\",\"brand\":\"buddy products\",\"modelno\":\"52104\",\"price\":51.94,\"cluster_id\":55}",
+            "product 2": "\"id\":\"amazon_16202\",\"title\":\"buddy products 52024 - dr. pocket wall file steel legal 17-1 4 x 2 1 2 x 8 1 4 black\",\"category\":\"storage presentation materials\",\"brand\":\"buddy\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_545\",\"title\":\"roocase multi-angle leather case for lg g-slate 8.9-inch 4g tablet\",\"category\":\"electronics - general\",\"brand\":\"roocase\",\"modelno\":\"222052\",\"price\":35.99,\"cluster_id\":109}",
+            "product 2": "\"id\":\"amazon_11636\",\"title\":\"roocase ultra slim black leather case cover with stand for lg g-slate 8.9-inch 4g android tablet wi-fi 4g\",\"category\":\"cases sleeves\",\"brand\":\"roocase\",\"modelno\":\"\",\"price\":32.93,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2182\",\"title\":\"storm 2306 case with foam olive drab\",\"category\":\"photography - general\",\"brand\":\"storm\",\"modelno\":\"im2306-30002\",\"price\":132.0,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_9456\",\"title\":\"storm im2306-30001 2306 case with foam olive drab cases outdoor products\",\"category\":\"printer ink toner\",\"brand\":\"storm\",\"modelno\":\"\",\"price\":103.99,\"cluster_id\":429}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_564\",\"title\":\"bic brite liner highlighter chisel tip pink 1-dozen\",\"category\":\"stationery & office machinery\",\"brand\":\"bic\",\"modelno\":\"bl11-pnk\",\"price\":5.88,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_21533\",\"title\":\"bic bl11pk - brite liner highlighter chisel tip fluorescent pink ink 12 per pack\",\"category\":\"storage presentation materials\",\"brand\":\"bic\",\"modelno\":\"\",\"price\":24.95,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1688\",\"title\":\"universal pressboard classification folder legal box of 10 red\",\"category\":\"stationery & office machinery\",\"brand\":\"\",\"modelno\":\"82007\",\"price\":47.84,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_16999\",\"title\":\"new-smead 19075 - pressboard classification folders wself tab legal six-section red 10 box - smd19075\",\"category\":\"laminating supplies\",\"brand\":\"smead\",\"modelno\":\"\",\"price\":76.0,\"cluster_id\":847}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_928\",\"title\":\"wilson jones basic vinyl round ring binder w label holder\",\"category\":\"stationery & office machinery\",\"brand\":\"wilson jones\",\"modelno\":\"36849nhb\",\"price\":14.2,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_17570\",\"title\":\"new-wilson jones 36834nbl - basic vinyl round ring binder 1-1 2 capacity dark blue - wlj36834nbl\",\"category\":\"adapter rings\",\"brand\":\"wilson jones\",\"modelno\":\"\",\"price\":14.64,\"cluster_id\":561}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2114\",\"title\":\"da-lite video spectra 1.5 advantage manual with csr - video format 84 diagonal\",\"category\":\"electronics - general\",\"brand\":\"da-lite\",\"modelno\":\"85703\",\"price\":847.99,\"cluster_id\":847}",
+            "product 2": "\"id\":\"amazon_2829\",\"title\":\"da-lite advantage manual with csr - projection screen - 1 1 - video spectra 1.5\",\"category\":\"projection screens\",\"brand\":\"da-lite\",\"modelno\":\"\",\"price\":594.95,\"cluster_id\":847}"
+        }
+    ],
+    "amazon-google-gs": [
+        {
+            "product 1": "{\"id\":\"amazon_427\",\"title\":\"victorymul submitwolf version 6.0 swolf6r )\",\"manufacturer\":\"victory multimedia\",\"price\":149.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2326\",\"title\":\"victory multimedia swolf6r submitwolf v6 .0 9x\\/me\\/nt \\/ 2k\\/xp by trellian llc * free shipping *\",\"manufacturer\":\"\",\"price\":145.0,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_508\",\"title\":\"acrobat professional 8 mac upsell standard-professional\",\"manufacturer\":\"adobe\",\"price\":273.0,\"cluster_id\":267}",
+            "product 2": "\"id\":\"google_533\",\"title\":\"adobe acrobat v8 .0 professional for mac\",\"manufacturer\":\"\",\"price\":405.99,\"cluster_id\":376}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_831\",\"title\":\"rainbow fish and the whale ( win\\/mac )\",\"manufacturer\":\"global-software-publishing\",\"price\":9.99,\"cluster_id\":81}",
+            "product 2": "\"id\":\"google_2970\",\"title\":\"rainbow fish and the whale\",\"manufacturer\":\"\",\"price\":6.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_25\",\"title\":\"kids power fun for girls\",\"manufacturer\":\"topics entertainment\",\"price\":19.99,\"cluster_id\":992}",
+            "product 2": "\"id\":\"google_2099\",\"title\":\"kids power fun for little ones\",\"manufacturer\":\"\",\"price\":15.9,\"cluster_id\":403}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_823\",\"title\":\"microsoft word 2004 upgrade ( mac )\",\"manufacturer\":\"microsoft\",\"price\":109.99,\"cluster_id\":648}",
+            "product 2": "\"id\":\"google_2474\",\"title\":\"word mac 2004 upgrade microsoft d48-00488\",\"manufacturer\":\"\",\"price\":97.36,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1004\",\"title\":\"professor teaches excel & word\",\"manufacturer\":\"individual software\",\"price\":19.99,\"cluster_id\":579}",
+            "product 2": "\"id\":\"google_2232\",\"title\":\"individual software prm-xw3 professor teaches excel & word\",\"manufacturer\":\"individual software\",\"price\":24.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1038\",\"title\":\"printmaster 17 gold by encore software\",\"manufacturer\":\"encore software\",\"price\":30.66,\"cluster_id\":169}",
+            "product 2": "\"id\":\"google_2638\",\"title\":\"printmaster gold v 17.0 ( win 98 me 2000 xp )\",\"manufacturer\":\"\",\"price\":19.95,\"cluster_id\":88}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_848\",\"title\":\"safekeeper plus\",\"manufacturer\":\"bling software\",\"price\":\"\",\"cluster_id\":695}",
+            "product 2": "\"id\":\"google_843\",\"title\":\"bling software limited safekeeper plus\",\"manufacturer\":\"\",\"price\":34.75,\"cluster_id\":522}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_588\",\"title\":\"adobe creative suite cs3 design standard [ mac ]\",\"manufacturer\":\"adobe\",\"price\":1199.0,\"cluster_id\":64}",
+            "product 2": "\"id\":\"google_1842\",\"title\":\"29300183dm adobe creative suite 3 design standard media tlp tlp nonprofit download -\",\"manufacturer\":\"\",\"price\":20.97,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_198\",\"title\":\"scansoft paperport professional 11 5 user license\",\"manufacturer\":\"nuance communications inc.\",\"price\":949.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_64\",\"title\":\"f309a-g03-11 .0 scansoft paperport professional v. 11 complete package 5 users win -\",\"manufacturer\":\"\",\"price\":841.55,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1052\",\"title\":\"reader rabbit learn to read phonics pre kindergarten\",\"manufacturer\":\"the learning company\",\"price\":9.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2946\",\"title\":\"reader rabbit learn to read with phonics ! preschool & kindergarten\",\"manufacturer\":\"\",\"price\":12.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_653\",\"title\":\"3d home architect home design deluxe version 9\",\"manufacturer\":\"encore\",\"price\":29.99,\"cluster_id\":282}",
+            "product 2": "\"id\":\"google_2030\",\"title\":\"encore software 13911 3d home architect home & landscape deluxe suite version 9\",\"manufacturer\":\"\",\"price\":33.97,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_498\",\"title\":\"mavis beacon typing 17 deluxe by broderbund\",\"manufacturer\":\"encore software\",\"price\":39.99,\"cluster_id\":809}",
+            "product 2": "\"id\":\"google_2153\",\"title\":\"mavis beacon teaches typing v17 deluxe pc\\/mac\",\"manufacturer\":\"\",\"price\":29.9,\"cluster_id\":155}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_52\",\"title\":\"instant home design ( jewel case )\",\"manufacturer\":\"topics entertainment\",\"price\":9.99,\"cluster_id\":355}",
+            "product 2": "\"id\":\"google_2008\",\"title\":\"instant home design 3.0\",\"manufacturer\":\"\",\"price\":15.9,\"cluster_id\":821}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_583\",\"title\":\"roxio popcorn 2 ( mac )\",\"manufacturer\":\"roxio\",\"price\":49.95,\"cluster_id\":288}",
+            "product 2": "\"id\":\"google_1160\",\"title\":\"roxio ( r ) popcorn ( tm ) 2\",\"manufacturer\":\"\",\"price\":49.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_990\",\"title\":\"power production storyboard artist 4\",\"manufacturer\":\"power production\",\"price\":\"\",\"cluster_id\":89}",
+            "product 2": "\"id\":\"google_2390\",\"title\":\"power production power production storyboard artist v4 .2 software animation software\",\"manufacturer\":\"\",\"price\":749.0,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_592\",\"title\":\"adobe after effects cs3 upgrade\",\"manufacturer\":\"adobe\",\"price\":299.0,\"cluster_id\":413}",
+            "product 2": "\"id\":\"google_2377\",\"title\":\"adobe after effects cs3 professional software for mac effects software\",\"manufacturer\":\"\",\"price\":998.95,\"cluster_id\":434}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_888\",\"title\":\"microsoft oem 3pk xp home edition sp2 n09-01624 )\",\"manufacturer\":\"microsoft corporation\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_375\",\"title\":\"microsoft windows xp home edition sp2 oem\",\"manufacturer\":\"\",\"price\":95.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_823\",\"title\":\"microsoft word 2004 upgrade ( mac )\",\"manufacturer\":\"microsoft\",\"price\":109.99,\"cluster_id\":648}",
+            "product 2": "\"id\":\"google_1686\",\"title\":\"word mac 2004 microsoft d48-00487\",\"manufacturer\":\"\",\"price\":157.18,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1322\",\"title\":\"adobe creative suite cs3 design premium upsell\",\"manufacturer\":\"adobe\",\"price\":1599.0,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_99\",\"title\":\"19500220 adobe creative suite 3 design premium product upgrade package 1 user upgra\",\"manufacturer\":\"\",\"price\":1687.48,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1190\",\"title\":\"punch ! professional home design\",\"manufacturer\":\"punch ! software\",\"price\":89.99,\"cluster_id\":218}",
+            "product 2": "\"id\":\"google_1040\",\"title\":\"punch software 35100 punch ! home design suite professional complete product architectural standard 1 user ( s ) complete product pc\",\"manufacturer\":\"\",\"price\":59.97,\"cluster_id\":192}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_796\",\"title\":\"ulead videostudio 11\",\"manufacturer\":\"corel\",\"price\":89.99,\"cluster_id\":124}",
+            "product 2": "\"id\":\"google_2323\",\"title\":\"corel ulead videostudio 11 plus video editing and dvd authoring software win authoring software\",\"manufacturer\":\"\",\"price\":129.95,\"cluster_id\":572}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1024\",\"title\":\"punch super home suite 3.0\",\"manufacturer\":\"punch ! software\",\"price\":49.99,\"cluster_id\":256}",
+            "product 2": "\"id\":\"google_2338\",\"title\":\"punch software 38100 punch ! super home suite ( small box )\",\"manufacturer\":\"punch software\",\"price\":45.99,\"cluster_id\":27}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1190\",\"title\":\"punch ! professional home design\",\"manufacturer\":\"punch ! software\",\"price\":89.99,\"cluster_id\":218}",
+            "product 2": "\"id\":\"google_107\",\"title\":\"24100 punch ! 5 in 1 home design complete package 1 user cd win\",\"manufacturer\":\"\",\"price\":36.28,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_510\",\"title\":\"reader rabbit learning system 1st grade\",\"manufacturer\":\"encore software\",\"price\":29.99,\"cluster_id\":815}",
+            "product 2": "\"id\":\"google_2089\",\"title\":\"encore software 13871 tlc reader rabbit 1st grade learning system 2008\",\"manufacturer\":\"\",\"price\":17.97,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_839\",\"title\":\"adobe photoshop cs3 extended\",\"manufacturer\":\"adobe\",\"price\":999.0,\"cluster_id\":224}",
+            "product 2": "\"id\":\"google_1135\",\"title\":\"adobe photoshop cs3 extended complete package 1 user academic cd mac\",\"manufacturer\":\"\",\"price\":279.0,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_717\",\"title\":\"learn to play chess with fritz & chesster 2 ( mac )\",\"manufacturer\":\"viva media\",\"price\":29.99,\"cluster_id\":682}",
+            "product 2": "\"id\":\"google_500\",\"title\":\"viva media llc learn to play chess with fritz & chesster\",\"manufacturer\":\"\",\"price\":26.14,\"cluster_id\":264}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_834\",\"title\":\"vegas 7 + dvd\\/soundforge8bundl\",\"manufacturer\":\"sony media\",\"price\":722.0,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2871\",\"title\":\"vegas + dvd sony\",\"manufacturer\":\"sony-pictures-digital-entertainment\",\"price\":899.99,\"cluster_id\":40}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_249\",\"title\":\"scansoft paperport 11 5 user license\",\"manufacturer\":\"nuance communications inc.\",\"price\":474.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1798\",\"title\":\"6809a-g03-11 .0 scansoft paperport v. 11 complete package 5 users win english\",\"manufacturer\":\"\",\"price\":421.17,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_504\",\"title\":\"adobe audition 2.0 upgrade\",\"manufacturer\":\"adobe\",\"price\":129.0,\"cluster_id\":672}",
+            "product 2": "\"id\":\"google_2292\",\"title\":\"adobe audition 2.0 audio production software educational discount audio software for video\",\"manufacturer\":\"adobe-education-box\",\"price\":148.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_738\",\"title\":\"print shop 22 deluxe\",\"manufacturer\":\"encore\",\"price\":49.99,\"cluster_id\":189}",
+            "product 2": "\"id\":\"google_2544\",\"title\":\"encore software 10741 the print shop 22 deluxe sb cs by the print shop\",\"manufacturer\":\"\",\"price\":42.97,\"cluster_id\":515}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_452\",\"title\":\"adobe after effects cs3\",\"manufacturer\":\"adobe\",\"price\":999.0,\"cluster_id\":949}",
+            "product 2": "\"id\":\"google_309\",\"title\":\"adobe cs3 after effects academic\",\"manufacturer\":\"\",\"price\":329.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_727\",\"title\":\"ibm viavoice advanced v. 10\",\"manufacturer\":\"nuance-communications-inc .\",\"price\":\"\",\"cluster_id\":443}",
+            "product 2": "\"id\":\"google_3222\",\"title\":\"ibm ( r ) viavoice ( r ) advanced edition 10\",\"manufacturer\":\"\",\"price\":78.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_267\",\"title\":\"adobe photoshop elements 5.0 \\/ premier elements 3.0 [ lb ]\",\"manufacturer\":\"adobe\",\"price\":149.99,\"cluster_id\":193}",
+            "product 2": "\"id\":\"google_3213\",\"title\":\"adobe photoshop elements 5.0 plus adobe premiere elements 3.0 \\u00e2 ?? with teacher resource center cd\",\"manufacturer\":\"\",\"price\":104.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_914\",\"title\":\"hasbro classic collection 2006 )\",\"manufacturer\":\"encore\",\"price\":19.99,\"cluster_id\":367}",
+            "product 2": "\"id\":\"google_2585\",\"title\":\"encore software 11052 hoyle : classic collection 2006 win 98 me 2000 xp\",\"manufacturer\":\"\",\"price\":18.97,\"cluster_id\":3}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_606\",\"title\":\"microsoft office 2004 professional ( mac )\",\"manufacturer\":\"microsoft\",\"price\":499.99,\"cluster_id\":835}",
+            "product 2": "\"id\":\"google_2137\",\"title\":\"microsoft microsoft office 2004 software suite mac education apple & mac software\",\"manufacturer\":\"\",\"price\":148.95,\"cluster_id\":329}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_176\",\"title\":\"instant immersion japanese ( audio book )\",\"manufacturer\":\"topics entertainment\",\"price\":\"\",\"cluster_id\":907}",
+            "product 2": "\"id\":\"google_423\",\"title\":\"topics entertainment instant immersion japanese crash course\",\"manufacturer\":\"\",\"price\":6.56,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_306\",\"title\":\"quickstart photo montage studio\",\"manufacturer\":\"selectsoft publishing\",\"price\":19.95,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2976\",\"title\":\"quickstart photo montage studio\",\"manufacturer\":\"\",\"price\":9.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_859\",\"title\":\"onone software intellihance pro 4.1\",\"manufacturer\":\"onone software\",\"price\":\"\",\"cluster_id\":796}",
+            "product 2": "\"id\":\"google_2660\",\"title\":\"onone software ice-10770 intellihance pro 4.1 mac\\/win ( buy now and get free cs3 compatibility upgrades )\",\"manufacturer\":\"onone software\",\"price\":158.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1190\",\"title\":\"punch ! professional home design\",\"manufacturer\":\"punch ! software\",\"price\":89.99,\"cluster_id\":218}",
+            "product 2": "\"id\":\"google_2752\",\"title\":\"punch software 35100 punch ! professional home design suite ( small box )\",\"manufacturer\":\"punch software\",\"price\":62.99,\"cluster_id\":192}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_636\",\"title\":\"mavis beacon teaches typing deluxe v17\",\"manufacturer\":\"encore software\",\"price\":39.99,\"cluster_id\":155}",
+            "product 2": "\"id\":\"google_2547\",\"title\":\"encore software 10072 mavis beacon typing 17 deluxe by broderbund\",\"manufacturer\":\"\",\"price\":33.97,\"cluster_id\":809}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_816\",\"title\":\"microsoft visual studio team suite 2005 with msdn premium ( cd & dvd )\",\"manufacturer\":\"microsoft\",\"price\":10949.0,\"cluster_id\":745}",
+            "product 2": "\"id\":\"google_777\",\"title\":\"microsoft uea-00033 visual studio 2005 team edition for database professionals with msdn premium subscription renewal complete product software development standard 1 user complete product pc - free shipping\",\"manufacturer\":\"\",\"price\":2072.97,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_288\",\"title\":\"tonka search & rescue 2\",\"manufacturer\":\"infogrames\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_3006\",\"title\":\"tonka search & rescue 2\",\"manufacturer\":\"\",\"price\":7.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1275\",\"title\":\"punch ! super home suite\",\"manufacturer\":\"punch ! software\",\"price\":49.99,\"cluster_id\":27}",
+            "product 2": "\"id\":\"google_2435\",\"title\":\"punch software 17100 punch ! super home suite\",\"manufacturer\":\"punch software\",\"price\":45.99,\"cluster_id\":256}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_372\",\"title\":\"readiris pro 11 corporate edition\",\"manufacturer\":\"iris inc.\",\"price\":399.99,\"cluster_id\":140}",
+            "product 2": "\"id\":\"google_740\",\"title\":\"usoa289 iris readiris pro v. 11 complete package 1 user win\",\"manufacturer\":\"\",\"price\":110.07,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_991\",\"title\":\"instant immersion spanish audio deluxe\",\"manufacturer\":\"topics entertainment\",\"price\":39.95,\"cluster_id\":929}",
+            "product 2": "\"id\":\"google_1655\",\"title\":\"topics entertainment 40248 instant immersion spanish audio book audio book\",\"manufacturer\":\"topics entertainment\",\"price\":23.61,\"cluster_id\":757}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_297\",\"title\":\"superstart ! science arcade\",\"manufacturer\":\"selectsoft publishing\",\"price\":24.95,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2967\",\"title\":\"superstart ! science arcade\",\"manufacturer\":\"\",\"price\":8.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_516\",\"title\":\"adobe creative suite cs3 design premium upgrade [ mac ]\",\"manufacturer\":\"adobe\",\"price\":599.0,\"cluster_id\":320}",
+            "product 2": "\"id\":\"google_1678\",\"title\":\"adobe creative suite ( v3 .0 ) design premium mac adobe 19500009\",\"manufacturer\":\"\",\"price\":1482.0,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_625\",\"title\":\"apple final cut studio 2 upgrade from final cut studio ( mac )\",\"manufacturer\":\"apple\",\"price\":499.0,\"cluster_id\":825}",
+            "product 2": "\"id\":\"google_127\",\"title\":\"ma888z\\/a final cut studio v. 2 version upgrade package 1 seat dvd mac\",\"manufacturer\":\"\",\"price\":460.7,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_254\",\"title\":\"watchguard mobile user vpn 5 user bundle wg3605 )\",\"manufacturer\":\"watchguard technologies inc\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1777\",\"title\":\"wg3605 watchguard mobile user vpn complete package 5 users cd win english t\",\"manufacturer\":\"\",\"price\":290.68,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_282\",\"title\":\"elementary success deluxe 2006 ( dw dvd )\",\"manufacturer\":\"topics entertainment\",\"price\":49.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2987\",\"title\":\"elementary school success deluxe 2006\",\"manufacturer\":\"\",\"price\":12.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_402\",\"title\":\"blues clues preschool\",\"manufacturer\":\"humongous entertainment\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2945\",\"title\":\"blue 's clues preschool\",\"manufacturer\":\"\",\"price\":7.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1287\",\"title\":\"punch ! 5 in 1 home design\",\"manufacturer\":\"punch ! software\",\"price\":39.99,\"cluster_id\":166}",
+            "product 2": "\"id\":\"google_1733\",\"title\":\"20100 punch ! 5 in 1 home design complete package 1 user cd win english\",\"manufacturer\":\"\",\"price\":34.26,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_35\",\"title\":\"the print shop pro publisher 22 deluxe [ dvd ]\",\"manufacturer\":\"encore\",\"price\":99.99,\"cluster_id\":784}",
+            "product 2": "\"id\":\"google_2050\",\"title\":\"the printshop v22 deluxe\",\"manufacturer\":\"\",\"price\":29.9,\"cluster_id\":23}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_441\",\"title\":\"sony acid music studio\",\"manufacturer\":\"sony-pictures-digital-entertainment\",\"price\":69.99,\"cluster_id\":408}",
+            "product 2": "\"id\":\"google_1059\",\"title\":\"sony media software acid music studio 7 software music production software\",\"manufacturer\":\"\",\"price\":69.95,\"cluster_id\":838}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_26\",\"title\":\"adobe premiere pro cs3 upgrade\",\"manufacturer\":\"adobe\",\"price\":299.0,\"cluster_id\":459}",
+            "product 2": "\"id\":\"google_4\",\"title\":\"production prem cs3 mac upgrad\",\"manufacturer\":\"adobe software\",\"price\":805.99,\"cluster_id\":108}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_455\",\"title\":\"brainfood games cranium collection 2006\",\"manufacturer\":\"encore software\",\"price\":19.99,\"cluster_id\":336}",
+            "product 2": "\"id\":\"google_769\",\"title\":\"encore software 11252 brain food games : cranium collection 2006 win 98 me 2000 xp\",\"manufacturer\":\"\",\"price\":18.97,\"cluster_id\":481}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_803\",\"title\":\"adobe creative suite cs3 master collection [ mac ]\",\"manufacturer\":\"adobe\",\"price\":2499.0,\"cluster_id\":196}",
+            "product 2": "\"id\":\"google_354\",\"title\":\"adobe cs3 master collection upsell from cs2\",\"manufacturer\":\"\",\"price\":1437.99,\"cluster_id\":658}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_570\",\"title\":\"professor teaches windows xp\",\"manufacturer\":\"individual software\",\"price\":19.99,\"cluster_id\":78}",
+            "product 2": "\"id\":\"google_784\",\"title\":\"individual software prm-wn5 professor teaches windows xp\",\"manufacturer\":\"individual software\",\"price\":24.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_502\",\"title\":\"symc backup exec sbs prm 11d win small business server\",\"manufacturer\":\"symantec\",\"price\":885.83,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1651\",\"title\":\"symantec 11105975 backup exec 11d for windows servers business pack bundle w \\/ continuous protection server complete package + 1 year essential support 1 server buying programs business pack cd win multi\",\"manufacturer\":\"\",\"price\":600.97,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_974\",\"title\":\"sony vegas movie studio + dvd 8 platinum edition\",\"manufacturer\":\"sony media\",\"price\":129.95,\"cluster_id\":674}",
+            "product 2": "\"id\":\"google_2307\",\"title\":\"sony vegas movie studio + dvd v8 platinum edition video editing software professional editing software\",\"manufacturer\":\"\",\"price\":129.95,\"cluster_id\":420}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_828\",\"title\":\"pinnacle mobile media converter\",\"manufacturer\":\"pinnacle\",\"price\":29.99,\"cluster_id\":295}",
+            "product 2": "\"id\":\"google_2819\",\"title\":\"mobile media converter ( pc ) pinnacle\",\"manufacturer\":\"\",\"price\":24.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_269\",\"title\":\"microsoft publisher with digital imaging 2003 [ old version ]\",\"manufacturer\":\"microsoft\",\"price\":209.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1973\",\"title\":\"a01-00017 microsoft office publisher 2003 w \\/ microsoft digital image pro 9 complete pa\",\"manufacturer\":\"\",\"price\":218.19,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_823\",\"title\":\"microsoft word 2004 upgrade ( mac )\",\"manufacturer\":\"microsoft\",\"price\":109.99,\"cluster_id\":648}",
+            "product 2": "\"id\":\"google_998\",\"title\":\"microsoft word 2004\",\"manufacturer\":\"\",\"price\":209.99,\"cluster_id\":302}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_418\",\"title\":\"essential business tools 2.0\",\"manufacturer\":\"valusoft\",\"price\":19.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2884\",\"title\":\"essential business tools 2.0\",\"manufacturer\":\"\",\"price\":9.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_389\",\"title\":\"instant immersion japanese 2.0\",\"manufacturer\":\"topics entertainment\",\"price\":19.99,\"cluster_id\":681}",
+            "product 2": "\"id\":\"google_423\",\"title\":\"topics entertainment instant immersion japanese crash course\",\"manufacturer\":\"\",\"price\":6.56,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_710\",\"title\":\"marine aquarium 2.0 ( mac )\",\"manufacturer\":\"encore\",\"price\":19.99,\"cluster_id\":790}",
+            "product 2": "\"id\":\"google_2565\",\"title\":\"marine aquarium & goldfishscreen saver by encore software\",\"manufacturer\":\"\",\"price\":18.27,\"cluster_id\":505}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_779\",\"title\":\"3d home architect landscape v. 8 by encore software\",\"manufacturer\":\"encore software\",\"price\":39.99,\"cluster_id\":115}",
+            "product 2": "\"id\":\"google_535\",\"title\":\"encore inc 3d home architect landscape designer v 8.0\",\"manufacturer\":\"\",\"price\":25.49,\"cluster_id\":332}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_999\",\"title\":\"spy sweeper w\\/antivirus family edition\",\"manufacturer\":\"webroot software\",\"price\":49.95,\"cluster_id\":921}",
+            "product 2": "\"id\":\"google_1870\",\"title\":\"50411 spy sweeper with antivirus complete package 3 users win\",\"manufacturer\":\"\",\"price\":38.91,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1198\",\"title\":\"quickbooks point-of-sale basic 6.0\",\"manufacturer\":\"intuit\",\"price\":799.95,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1108\",\"title\":\"quickbooks ( r ) point of sale 2007 : basic retail management 6.0\",\"manufacturer\":\"\",\"price\":799.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1292\",\"title\":\"small business server 2003 20u cal addpak user\",\"manufacturer\":\"microsoft\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_36\",\"title\":\"t74-00004 microsoft windows small business server 2003 license 20 additional user cals\",\"manufacturer\":\"\",\"price\":1834.4,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_548\",\"title\":\"quickbooks pro 2007 small business financial software\",\"manufacturer\":\"intuit\",\"price\":199.95,\"cluster_id\":145}",
+            "product 2": "\"id\":\"google_3034\",\"title\":\"quickbooks pro 2007 win\",\"manufacturer\":\"\",\"price\":192.26,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1300\",\"title\":\"acad vegas movie studio + dvd 8 platinum\",\"manufacturer\":\"sony-pictures-digital-entertainment\",\"price\":\"\",\"cluster_id\":858}",
+            "product 2": "\"id\":\"google_840\",\"title\":\"sony media software vegas movie studio + dvd 8 platinum edition\",\"manufacturer\":\"\",\"price\":100.97,\"cluster_id\":674}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_401\",\"title\":\"south park chef 's luv shack\",\"manufacturer\":\"acclaim\",\"price\":39.95,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2948\",\"title\":\"south park chef 's luv shack\",\"manufacturer\":\"\",\"price\":6.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_350\",\"title\":\"adobe creative suite cs3 design standard upsell [ mac ]\",\"manufacturer\":\"adobe\",\"price\":899.0,\"cluster_id\":686}",
+            "product 2": "\"id\":\"google_3161\",\"title\":\"adobe creative suite 3 ( cs3 ) design suite standard upgrade ( upsell ) mac\",\"manufacturer\":\"\",\"price\":859.96,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1262\",\"title\":\"adobe flash pro cs3 upgrade [ mac ]\",\"manufacturer\":\"adobe\",\"price\":199.0,\"cluster_id\":813}",
+            "product 2": "\"id\":\"google_352\",\"title\":\"adobe cs3 flash professional\",\"manufacturer\":\"\",\"price\":724.99,\"cluster_id\":414}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1105\",\"title\":\"punch ! master landscape & home design\",\"manufacturer\":\"punch ! software\",\"price\":59.99,\"cluster_id\":141}",
+            "product 2": "\"id\":\"google_1427\",\"title\":\"punch software 85100 punch!master landscape pro v10 and home design\",\"manufacturer\":\"\",\"price\":59.97,\"cluster_id\":128}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_137\",\"title\":\"netmanage rumba unix-hp edition v. 7.3 upgrade license 902453-006 )\",\"manufacturer\":\"netmanage\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1717\",\"title\":\"902453-007-e rumba unix-hp edition upgrade license 1 user volume level e 1000-1999\",\"manufacturer\":\"\",\"price\":106.48,\"cluster_id\":206}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_326\",\"title\":\"math missions : the race to spectacle city arcade ( grades k-2 )\",\"manufacturer\":\"scholastic\",\"price\":29.95,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_3113\",\"title\":\"math missions : the race to spectacle city arcade ( grades k-2 )\",\"manufacturer\":\"\",\"price\":8.49,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_348\",\"title\":\"microsoft office & windows training\",\"manufacturer\":\"topics entertainment\",\"price\":29.99,\"cluster_id\":20}",
+            "product 2": "\"id\":\"google_1497\",\"title\":\"microsoft office and windows training professional\",\"manufacturer\":\"\",\"price\":29.99,\"cluster_id\":94}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_172\",\"title\":\"ca arcserve bkup r11 .5 win agent mac os x upgrade prod only\",\"manufacturer\":\"computer associates\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1962\",\"title\":\"babwur1151s31 brightstor arcserve backup for windows agent for mac os xw\\/sp1 v. 11.5 -\",\"manufacturer\":\"\",\"price\":194.34,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_211\",\"title\":\"microsoft entertainment pack ce\",\"manufacturer\":\"microsoft\",\"price\":49.5,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_726\",\"title\":\"711-00011 microsoft entertainment pack v. 2.0 complete package 1 user pc cd\",\"manufacturer\":\"\",\"price\":23.57,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_705\",\"title\":\"professional home design suite platinum\",\"manufacturer\":\"punch ! software\",\"price\":99.95,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2920\",\"title\":\"punch software professional home design platinum version 10\",\"manufacturer\":\"\",\"price\":99.99,\"cluster_id\":83}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_773\",\"title\":\"microsoft office mac 2004 english 3pk dsp 731-01163 )\",\"manufacturer\":\"microsoft corporation\",\"price\":\"\",\"cluster_id\":396}",
+            "product 2": "\"id\":\"google_2137\",\"title\":\"microsoft microsoft office 2004 software suite mac education apple & mac software\",\"manufacturer\":\"\",\"price\":148.95,\"cluster_id\":329}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_134\",\"title\":\"employee appraiser 5.0 deluxe mailer\",\"manufacturer\":\"global marketing\",\"price\":394.6,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1882\",\"title\":\"aust-0150-005 employee appraiser deluxe v. 5.0 complete package 1 user download -\",\"manufacturer\":\"\",\"price\":231.81,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1080\",\"title\":\"adventure workshop 4th-6th grade 7th edition\",\"manufacturer\":\"encore software\",\"price\":19.99,\"cluster_id\":636}",
+            "product 2": "\"id\":\"google_2057\",\"title\":\"encore software 10118 adventure workshop 4th-6th grade 7th ed sb cs by riverdeep\",\"manufacturer\":\"\",\"price\":17.97,\"cluster_id\":400}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_154\",\"title\":\"cisco 3745 ser ios ent cd374-esk9 = )\",\"manufacturer\":\"cisco systems enterprise\",\"price\":2814.33,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1896\",\"title\":\"cd374-esk9 = cisco ios enterprise services complete package cd\",\"manufacturer\":\"\",\"price\":1430.53,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_588\",\"title\":\"adobe creative suite cs3 design standard [ mac ]\",\"manufacturer\":\"adobe\",\"price\":1199.0,\"cluster_id\":64}",
+            "product 2": "\"id\":\"google_3161\",\"title\":\"adobe creative suite 3 ( cs3 ) design suite standard upgrade ( upsell ) mac\",\"manufacturer\":\"\",\"price\":859.96,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_550\",\"title\":\"windows vista business spanish full version [ dvd ]\",\"manufacturer\":\"microsoft\",\"price\":329.95,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2419\",\"title\":\"windows vista business sp microsoft 66j-00063\",\"manufacturer\":\"\",\"price\":272.38,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1130\",\"title\":\"adobe cs3 design premium macosx dvd\",\"manufacturer\":\"adobe\",\"price\":599.0,\"cluster_id\":687}",
+            "product 2": "\"id\":\"google_521\",\"title\":\"adobe cs3 design premium\",\"manufacturer\":\"\",\"price\":1865.99,\"cluster_id\":411}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_939\",\"title\":\"bias peak pro 5 macintosh )\",\"manufacturer\":\"bias\",\"price\":599.0,\"cluster_id\":617}",
+            "product 2": "\"id\":\"google_2921\",\"title\":\"bias peak pro xt 5 software bundle music production software\",\"manufacturer\":\"\",\"price\":999.0,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_425\",\"title\":\"hoyle card games 2007\",\"manufacturer\":\"encore software\",\"price\":29.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1593\",\"title\":\"encore 10025 hoyle card games for pc\",\"manufacturer\":\"encore\",\"price\":10.0,\"cluster_id\":344}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1019\",\"title\":\"neuratron photoscore professional 4\",\"manufacturer\":\"sibelius-software-ltd .\",\"price\":199.99,\"cluster_id\":671}",
+            "product 2": "\"id\":\"google_312\",\"title\":\"sibelius sibelius photoscore professional 4\",\"manufacturer\":\"\",\"price\":145.7,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1264\",\"title\":\"punch ! professional home design suite\",\"manufacturer\":\"punch ! software\",\"price\":69.99,\"cluster_id\":192}",
+            "product 2": "\"id\":\"google_204\",\"title\":\"punch software pro home design suite\",\"manufacturer\":\"\",\"price\":61.8,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_547\",\"title\":\"microsoft outlook 2007\",\"manufacturer\":\"microsoft\",\"price\":109.95,\"cluster_id\":886}",
+            "product 2": "\"id\":\"google_2464\",\"title\":\"outlook 2007 edu microsoft 543-03865\",\"manufacturer\":\"\",\"price\":50.13,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_13\",\"title\":\"spy sweeper spanish\",\"manufacturer\":\"webroot software\",\"price\":29.95,\"cluster_id\":315}",
+            "product 2": "\"id\":\"google_2425\",\"title\":\"webroot software 65210 spy sweeper 3 pc\",\"manufacturer\":\"webroot software\",\"price\":31.99,\"cluster_id\":133}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_574\",\"title\":\"microsoft mappoint 2006 with gps\",\"manufacturer\":\"microsoft\",\"price\":349.0,\"cluster_id\":297}",
+            "product 2": "\"id\":\"google_3190\",\"title\":\"microsoft ( r ) mappoint ( r ) 2006\",\"manufacturer\":\"\",\"price\":249.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_541\",\"title\":\"microsoft onenote 2007\",\"manufacturer\":\"microsoft\",\"price\":99.95,\"cluster_id\":839}",
+            "product 2": "\"id\":\"google_3187\",\"title\":\"microsoft office onenote 2007 complete package 1 pc cd win english\",\"manufacturer\":\"\",\"price\":78.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_133\",\"title\":\"snap enterprise data replicator advanced license for 10000 series\",\"manufacturer\":\"adaptec\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_46\",\"title\":\"5325302020 snap enterprise data replicator advanced license 1 server linux unix win\",\"manufacturer\":\"\",\"price\":1320.64,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_556\",\"title\":\"instant immersion italian deluxe 2.0\",\"manufacturer\":\"topics entertainment\",\"price\":49.99,\"cluster_id\":358}",
+            "product 2": "\"id\":\"google_3048\",\"title\":\"instant immersion italian 2.0\",\"manufacturer\":\"topics entertainment\",\"price\":20.99,\"cluster_id\":732}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_339\",\"title\":\"post mortem\",\"manufacturer\":\"dreamcatcher interactive\",\"price\":29.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_3066\",\"title\":\"post mortem\",\"manufacturer\":\"\",\"price\":7.49,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_138\",\"title\":\"sonicwall gms standard edition 10 node license\",\"manufacturer\":\"sonicwall\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1991\",\"title\":\"01-ssc-3377 sonicwall comprehensive gms 24x7 support sonicwall gms standard edition licens\",\"manufacturer\":\"\",\"price\":60374.4,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_425\",\"title\":\"hoyle card games 2007\",\"manufacturer\":\"encore software\",\"price\":29.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2560\",\"title\":\"encore software 10025 hoyle card games ( win 98 me 2000 xp )\",\"manufacturer\":\"\",\"price\":7.47,\"cluster_id\":344}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1304\",\"title\":\"piano wizard premier software & stickers & midi cable\",\"manufacturer\":\"re : launch\",\"price\":149.95,\"cluster_id\":480}",
+            "product 2": "\"id\":\"google_1116\",\"title\":\"re launch piano wizard premier w\\/49e keystation\",\"manufacturer\":\"\",\"price\":161.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_275\",\"title\":\"easy drums ( jewel case )\",\"manufacturer\":\"arcmedia\",\"price\":9.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2995\",\"title\":\"easy drums\",\"manufacturer\":\"\",\"price\":12.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_329\",\"title\":\"cluefinders 3rd grade adventures : mystery of mathra\",\"manufacturer\":\"learning company\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2894\",\"title\":\"cluefinders 3rd grade adventures with adapt\",\"manufacturer\":\"\",\"price\":9.95,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_548\",\"title\":\"quickbooks pro 2007 small business financial software\",\"manufacturer\":\"intuit\",\"price\":199.95,\"cluster_id\":145}",
+            "product 2": "\"id\":\"google_2516\",\"title\":\"intuit quickbooks pro 2007 software for mac finance software\",\"manufacturer\":\"\",\"price\":189.95,\"cluster_id\":204}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1176\",\"title\":\"valuesoft tune transfer for ipod software for windows xp\",\"manufacturer\":\"valuesoft\",\"price\":29.95,\"cluster_id\":712}",
+            "product 2": "\"id\":\"google_540\",\"title\":\"valusoft tune tools for ipod\",\"manufacturer\":\"\",\"price\":21.99,\"cluster_id\":743}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1284\",\"title\":\"punch ! master landscape & home design\",\"manufacturer\":\"punch ! software\",\"price\":99.99,\"cluster_id\":222}",
+            "product 2": "\"id\":\"google_2009\",\"title\":\"punch software 26100 punch ! master landscape and home design ( small box )\",\"manufacturer\":\"punch software\",\"price\":45.99,\"cluster_id\":141}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_912\",\"title\":\"network now ! pro by encore\",\"manufacturer\":\"encore software\",\"price\":39.99,\"cluster_id\":776}",
+            "product 2": "\"id\":\"google_763\",\"title\":\"encore software 10392 network now ! pro ( win 98 me 2000 xp )\",\"manufacturer\":\"\",\"price\":34.97,\"cluster_id\":146}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1069\",\"title\":\"hasbro family game collection 2006\",\"manufacturer\":\"encore software\",\"price\":19.99,\"cluster_id\":85}",
+            "product 2": "\"id\":\"google_1787\",\"title\":\"11273 hasbro family game collection 2006 complete package 1 user pc cd win\",\"manufacturer\":\"\",\"price\":14.51,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_184\",\"title\":\"crystal reports xi developer\",\"manufacturer\":\"business objects\",\"price\":595.0,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1553\",\"title\":\"crystal reports xi developer edition business objects w-1rd-e-wx-00\",\"manufacturer\":\"\",\"price\":400.03,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1186\",\"title\":\"adobe creative suite cs3 web standard [ mac ]\",\"manufacturer\":\"adobe\",\"price\":999.0,\"cluster_id\":412}",
+            "product 2": "\"id\":\"google_70\",\"title\":\"29270077 adobe creative suite 3 web standard product upgrade package 1 user upgrade\",\"manufacturer\":\"\",\"price\":843.15,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_592\",\"title\":\"adobe after effects cs3 upgrade\",\"manufacturer\":\"adobe\",\"price\":299.0,\"cluster_id\":413}",
+            "product 2": "\"id\":\"google_355\",\"title\":\"adobe cs3 after effects\",\"manufacturer\":\"\",\"price\":1025.99,\"cluster_id\":434}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_837\",\"title\":\"adobe photoshop cs3 extended upgrade [ mac ]\",\"manufacturer\":\"adobe\",\"price\":349.0,\"cluster_id\":592}",
+            "product 2": "\"id\":\"google_1595\",\"title\":\"adobe photoshop cs3 ( v10 .0 ) mac adobe 13102488\",\"manufacturer\":\"\",\"price\":537.65,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_309\",\"title\":\"family tree maker version 16 deluxe\",\"manufacturer\":\"encore\",\"price\":69.95,\"cluster_id\":233}",
+            "product 2": "\"id\":\"google_3050\",\"title\":\"encore software 10891 family tree maker version 16 essential sb cs\",\"manufacturer\":\"\",\"price\":25.97,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_361\",\"title\":\"adobe creative suite cs3 web standard upsell\",\"manufacturer\":\"adobe\",\"price\":799.0,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_70\",\"title\":\"29270077 adobe creative suite 3 web standard product upgrade package 1 user upgrade\",\"manufacturer\":\"\",\"price\":843.15,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_602\",\"title\":\"adobe creative suite cs3 design standard upgrade [ mac ]\",\"manufacturer\":\"adobe\",\"price\":399.0,\"cluster_id\":766}",
+            "product 2": "\"id\":\"google_1842\",\"title\":\"29300183dm adobe creative suite 3 design standard media tlp tlp nonprofit download -\",\"manufacturer\":\"\",\"price\":20.97,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_1101\",\"title\":\"steinberg cubase studio 4\",\"manufacturer\":\"steinberg\",\"price\":499.99,\"cluster_id\":446}",
+            "product 2": "\"id\":\"google_2370\",\"title\":\"steinberg cubase 4 software competitive crossgrade music production software\",\"manufacturer\":\"\",\"price\":399.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_999\",\"title\":\"spy sweeper w\\/antivirus family edition\",\"manufacturer\":\"webroot software\",\"price\":49.95,\"cluster_id\":921}",
+            "product 2": "\"id\":\"google_2265\",\"title\":\"webroot software inc 50410 spy sweeper w\\/antivirus family edition ( small box ) win 2000 xp\",\"manufacturer\":\"\",\"price\":41.97,\"cluster_id\":747}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_738\",\"title\":\"print shop 22 deluxe\",\"manufacturer\":\"encore\",\"price\":49.99,\"cluster_id\":189}",
+            "product 2": "\"id\":\"google_2018\",\"title\":\"encore software 10731 the print shop 22 pro publisherdeluxe sb cs by the print shop\",\"manufacturer\":\"\",\"price\":81.97,\"cluster_id\":948}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_513\",\"title\":\"mavis beacon typing 17 ( win\\/mac )\",\"manufacturer\":\"encore software\",\"price\":19.99,\"cluster_id\":406}",
+            "product 2": "\"id\":\"google_2527\",\"title\":\"encore software 10075 encore mavis beacon teaches typing v. 17.0 standard typing tutor pc mac\",\"manufacturer\":\"\",\"price\":18.97,\"cluster_id\":238}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_333\",\"title\":\"adobe after effects 7.0 professional ( mac )\",\"manufacturer\":\"adobe\",\"price\":999.0,\"cluster_id\":487}",
+            "product 2": "\"id\":\"google_1675\",\"title\":\"adobe after effects ( v7 .0 ) pro mac up pro-pro adobe 12070227\",\"manufacturer\":\"\",\"price\":185.32,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_642\",\"title\":\"adobe flash pro cs3 [ mac ]\",\"manufacturer\":\"adobe\",\"price\":699.0,\"cluster_id\":414}",
+            "product 2": "\"id\":\"google_448\",\"title\":\"adobe cs3 flash professional academic\",\"manufacturer\":\"\",\"price\":239.99,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_837\",\"title\":\"adobe photoshop cs3 extended upgrade [ mac ]\",\"manufacturer\":\"adobe\",\"price\":349.0,\"cluster_id\":592}",
+            "product 2": "\"id\":\"google_371\",\"title\":\"adobe photoshop cs3 for mac upgrade\",\"manufacturer\":\"\",\"price\":189.99,\"cluster_id\":138}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_137\",\"title\":\"netmanage rumba unix-hp edition v. 7.3 upgrade license 902453-006 )\",\"manufacturer\":\"netmanage\",\"price\":\"\",\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_1890\",\"title\":\"902453-006-g rumba unix-hp edition v. 7.3 upgrade license 1 user volume level g\",\"manufacturer\":\"\",\"price\":93.66,\"cluster_id\":995}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_496\",\"title\":\"microsoft windows vista business 32-bit for system builders\",\"manufacturer\":\"microsoft\",\"price\":179.99,\"cluster_id\":243}",
+            "product 2": "\"id\":\"google_2818\",\"title\":\"microsoft windows vista business ( pc )\",\"manufacturer\":\"\",\"price\":299.99,\"cluster_id\":11}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_788\",\"title\":\"hoyle puzzle & board games\",\"manufacturer\":\"encore software\",\"price\":19.95,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_2347\",\"title\":\"encore software 10568 encore hoyle puzzle & board games 2005 complete product puzzle game 1 user complete product standard pc\",\"manufacturer\":\"\",\"price\":17.97,\"cluster_id\":368}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_336\",\"title\":\"csi : crime scene investigation\",\"manufacturer\":\"ubi soft\",\"price\":19.99,\"cluster_id\":995}",
+            "product 2": "\"id\":\"google_3037\",\"title\":\"csi : crime scene investigation\",\"manufacturer\":\"\",\"price\":10.95,\"cluster_id\":995}"
+        }
+    ],
+    "dblp-scholar-gs": [
+        {
+            "product 1": "{\"id\":\"dblp_1739\",\"title\":\"dec data distributor : for data replication and data warehousing\",\"authors\":\"d dietterich\",\"venue\":\"sigmod conference\",\"year\":1994,\"cluster_id\":2379}",
+            "product 2": "\"id\":\"scholar_58598\",\"title\":\"pp. 1\\u00e2 ?? 12 . dietterich , dj 1994 . dec data distributor : for data replication and data warehousing\",\"authors\":\"a canada\",\"venue\":\"int . conf ,\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2342\",\"title\":\"editorial\",\"authors\":\"\",\"venue\":\"\",\"year\":2001,\"cluster_id\":2379}",
+            "product 2": "\"id\":\"scholar_37915\",\"title\":\"guest editorial\",\"authors\":\"a el abbadi , g schlageter , ky whang\",\"venue\":\"the vldb journal the international journal on very large & hellip ; ,\",\"year\":2001.0,\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1365\",\"title\":\"infomaster : an information integration system\",\"authors\":\"m genesereth , a keller , o duschka\",\"venue\":\"sigmod conference\",\"year\":1997,\"cluster_id\":996}",
+            "product 2": "\"id\":\"scholar_55595\",\"title\":\"infomaster-an information integration tool\",\"authors\":\"om duschka , mr genesereth\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1679\",\"title\":\"the query by image content ( qbic ) system\",\"authors\":\"j ashley , m flickner , j hafner , d lee , w niblack , d petkovic\",\"venue\":\"sigmod conference\",\"year\":1995,\"cluster_id\":313}",
+            "product 2": "\"id\":\"scholar_37400\",\"title\":\"i iuang , q. , and dom b. query by image and video content : the qbic system\",\"authors\":\"m flickner , h sawhney , w niblack , j ashley\",\"venue\":\"ieee computer ,\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1491\",\"title\":\"lore : a lightweight object repository for semistructured data\",\"authors\":\"d quass , j widom , r goldman , k haas , q luo , j mchugh , s nestorov , a rajaraman , h rivero , s abiteboul , j ullman , j wiener\",\"venue\":\"sigmod conference\",\"year\":1996,\"cluster_id\":57}",
+            "product 2": "\"id\":\"scholar_47930\",\"title\":\"lore : a database management system for semistructured data\",\"authors\":\"s abiteboul , j mchugh , d quass , j widom , r goldman\",\"venue\":\"sigmod record ,\",\"year\":\"\",\"cluster_id\":918}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_406\",\"title\":\"xquery : a query language for xml\",\"authors\":\"\",\"venue\":\"\",\"year\":2003,\"cluster_id\":769}",
+            "product 2": "\"id\":\"scholar_50897\",\"title\":\"xquery : a query language for xml\",\"authors\":\"s boag , d chamberlin , m fernandez , d florescu , j\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1631\",\"title\":\"the lotus notes storage system\",\"authors\":\"k moore\",\"venue\":\"sigmod conference\",\"year\":1995,\"cluster_id\":1912}",
+            "product 2": "\"id\":\"scholar_54537\",\"title\":\"the lotus notes [ tm ] storage system\",\"authors\":\"portal.acm.org\",\"venue\":\"sigmod record ,\",\"year\":1995.0,\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_72\",\"title\":\"efficient and effective clustering methods for spatial data mining\",\"authors\":\"r ng , j han\",\"venue\":\"vldb\",\"year\":1994,\"cluster_id\":414}",
+            "product 2": "\"id\":\"scholar_28641\",\"title\":\"clarans : efficient and effective clustering method for spatial data mining\",\"authors\":\"r ng\\u00e2 ? \\u00a6\",\"venue\":\"proc . 1994 int . conf . very large data bases\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1530\",\"title\":\"spatial hash-joins\",\"authors\":\"m lo , c ravishankar\",\"venue\":\"sigmod conference\",\"year\":1996,\"cluster_id\":518}",
+            "product 2": "\"id\":\"scholar_27962\",\"title\":\"spatialhash-joins\",\"authors\":\"rcv loml\",\"venue\":\"proceedingsof acm sigmod conference , montreal ,\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1962\",\"title\":\"peer-to-peer : harnessing the power of disruptive technologies\",\"authors\":\"m nascimento\",\"venue\":\"sigmod record\",\"year\":2003,\"cluster_id\":1462}",
+            "product 2": "\"id\":\"scholar_53821\",\"title\":\"performance , peer-to-peer : harnessing the power of disruptive technologies , ed . a. oram\",\"authors\":\"t hong\",\"venue\":\"\",\"year\":2001.0,\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2558\",\"title\":\"title , foreword\",\"authors\":\"\",\"venue\":\"\",\"year\":1994,\"cluster_id\":2379}",
+            "product 2": "\"id\":\"scholar_52192\",\"title\":\"foreword\",\"authors\":\"aj francis\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_399\",\"title\":\"continuously adaptive continuous queries over streams\",\"authors\":\"s madden , m shah , j hellerstein , v raman\",\"venue\":\"sigmod conference\",\"year\":2002,\"cluster_id\":616}",
+            "product 2": "\"id\":\"scholar_56118\",\"title\":\", joseph m. hellerstein , vijayshankar raman : continuously adaptive continuous queries over streams\",\"authors\":\"s madden\",\"venue\":\"proceedings of the 2002 acm sigmod madison , wisconsin , usa , & hellip ; ,\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_968\",\"title\":\"exploratory mining via constrained frequent set queries\",\"authors\":\"r ng , l lakshmanan , j han , t mah\",\"venue\":\"sigmod conference\",\"year\":1999,\"cluster_id\":2150}",
+            "product 2": "\"id\":\"scholar_64165\",\"title\":\"exploratory mining via constrained frequent set queries ( demo )\",\"authors\":\"r ng\\u00e2 ? \\u00a6\",\"venue\":\"proc . 1999 acm sigmod conf . on management of\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1962\",\"title\":\"peer-to-peer : harnessing the power of disruptive technologies\",\"authors\":\"m nascimento\",\"venue\":\"sigmod record\",\"year\":2003,\"cluster_id\":1462}",
+            "product 2": "\"id\":\"scholar_37238\",\"title\":\"peer-to-peer : harnessing the power of disruptive technologies o\\u00e2 ?? reilly\",\"authors\":\"a oram\",\"venue\":\"\",\"year\":2001.0,\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2562\",\"title\":\"title , foreword\",\"authors\":\"\",\"venue\":\"\",\"year\":1994,\"cluster_id\":2379}",
+            "product 2": "\"id\":\"scholar_62857\",\"title\":\"foreword\",\"authors\":\"ja cushman\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2568\",\"title\":\"sampling large databases for association rules\",\"authors\":\"h toivonen\",\"venue\":\"vldb\",\"year\":1996,\"cluster_id\":343}",
+            "product 2": "\"id\":\"scholar_33576\",\"title\":\"sampling largc database for association rules\",\"authors\":\"h tovienven\",\"venue\":\"usa : proc of vldb . 1996.134 ~\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1046\",\"title\":\"indexing and querying xml data for regular path expressions\",\"authors\":\"q li , b moon\",\"venue\":\"vldb\",\"year\":2001,\"cluster_id\":588}",
+            "product 2": "\"id\":\"scholar_64253\",\"title\":\"indexing and query xml , data for regular path expressions [ a ]\",\"authors\":\"mb li q\",\"venue\":\"proceedings of the international conference on very large & hellip ; ,\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1953\",\"title\":\"an efficient algorithm for mining association rules in large databases\",\"authors\":\"a savasere , e omiecinski , s navathe\",\"venue\":\"vldb\",\"year\":1995,\"cluster_id\":325}",
+            "product 2": "\"id\":\"scholar_13240\",\"title\":\"efficient mining of association rules in large dynamic databases\",\"authors\":\"e omiecinski , a savasere\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1581\",\"title\":\"the lyric language : querying constraint objects\",\"authors\":\"a brodsky , y kornatzky\",\"venue\":\"sigmod conference\",\"year\":1995,\"cluster_id\":813}",
+            "product 2": "\"id\":\"scholar_2570\",\"title\":\"kornatzky . ( 1995 ) . thelyric language : queringconstraintobjects . incareyandschneider , editors\",\"authors\":\"a brodsky & y\",\"venue\":\"proc . acm sigmod international conference on management of\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_60\",\"title\":\"data mining : concepts and techniques - book review\",\"authors\":\"f galiano , n mar\\u044dn\",\"venue\":\"sigmod record\",\"year\":2002,\"cluster_id\":2379}",
+            "product 2": "\"id\":\"scholar_56465\",\"title\":\"data mining : concepts and techniques by jiawei han and micheline kamber\",\"authors\":\"f berzal , n mat\\u00e3n\",\"venue\":\"acm sigmod record ,\",\"year\":2002.0,\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1420\",\"title\":\"o-o , what have they done to db2 ?\",\"authors\":\"m carey , d chamberlin , s narayanan , b vance , d doole , s rielau , r swagerman , n mattos\",\"venue\":\"vldb\",\"year\":1999,\"cluster_id\":1933}",
+            "product 2": "\"id\":\"scholar_7601\",\"title\":\"oo , what 's happening to db2 ?\",\"authors\":\"m carey , d chamberlin\",\"venue\":\"proc . acm sigmod int &#39; l conf . management of data ,\",\"year\":1999.0,\"cluster_id\":1741}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1811\",\"title\":\"coalescing in temporal databases\",\"authors\":\"m b\\u0456hlen , r snodgrass , m soo\",\"venue\":\"vldb\",\"year\":1996,\"cluster_id\":483}",
+            "product 2": "\"id\":\"scholar_63192\",\"title\":\"temporal coalescing\",\"authors\":\"mh bohlen , rt snodgrass , md soo\",\"venue\":\"proceedings of the international conference on very large & hellip ; ,\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2126\",\"title\":\"maintaining data privacy in association rule mining\",\"authors\":\"s rizvi , j haritsa\",\"venue\":\"vldb\",\"year\":2002,\"cluster_id\":136}",
+            "product 2": "\"id\":\"scholar_62091\",\"title\":\"privacy-preserving association rule mining\",\"authors\":\"sj rizvi , jr haritsa\",\"venue\":\"proc . of the 28th int\\u00e2 ?? l conference on very large databases ,\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_568\",\"title\":\"editor 's notes\",\"authors\":\"\",\"venue\":\"\",\"year\":1997,\"cluster_id\":2379}",
+            "product 2": "\"id\":\"scholar_53053\",\"title\":\"editor 's notes\",\"authors\":\"sb merriam\",\"venue\":\"new directions for adult and continuing education ,\",\"year\":\"\",\"cluster_id\":2379}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1679\",\"title\":\"the query by image content ( qbic ) system\",\"authors\":\"j ashley , m flickner , j hafner , d lee , w niblack , d petkovic\",\"venue\":\"sigmod conference\",\"year\":1995,\"cluster_id\":313}",
+            "product 2": "\"id\":\"scholar_46582\",\"title\":\"yanker , p. query by image and video content : the qbic system\",\"authors\":\"m flickner , h sawhney , w niblack , j ashley , q\",\"venue\":\"ieee computer ,\",\"year\":\"\",\"cluster_id\":2379}"
+        }
+    ]
+}

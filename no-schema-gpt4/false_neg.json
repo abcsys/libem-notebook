@@ -1,0 +1,404 @@
+{
+    "abt-buy-gs": [
+        {
+            "Product 1": "peerless 37 ' 60 ' flat panel tv black wall mount st660p ",
+            "Product 2": "peerless universal tilt wall mount "
+        },
+        {
+            "Product 1": "lg wm3431w all-in-one white washer and dryer combo wm3431wh ",
+            "Product 2": "lg electronics 24 ' washer/dryer combo : white "
+        },
+        {
+            "Product 1": "apple 500gb time capsule wireless hard drive mb276lla 299.0",
+            "Product 2": "apple time capsule network hard drive mb277ll/a 439.0"
+        },
+        {
+            "Product 1": "maytag bisque over-the-range microwave oven mmv4205bt ",
+            "Product 2": "maytag mmv4205baq over-the-range microwave "
+        },
+        {
+            "Product 1": "yamaha yas-71 black front surround system yas71bk ",
+            "Product 2": "yamaha yas-71 front surround system yas-71bl "
+        },
+        {
+            "Product 1": "delonghi twenty four seven coffee maker dc50w 22.0",
+            "Product 2": "delonghi 4-cup drip coffee makers "
+        },
+        {
+            "Product 1": "logitech dinovo media desktop laser keyboard and mouse combo 967562 199.0",
+            "Product 2": "logitech cordless desktop mx 5000 laser 967562-0403 "
+        },
+        {
+            "Product 1": "lg 2.0 cu . ft. over-the-range stainless steel microwave oven lmvm2085ss ",
+            "Product 2": "lg 2.0 cu.ft . over the range microwave oven "
+        },
+        {
+            "Product 1": "lg black freestanding electric range lre30757bk ",
+            "Product 2": "lg 5.6 cu.ft . freestanding electric range "
+        },
+        {
+            "Product 1": "lg 2.0 cu . ft. over-the-range black microwave oven lmvm2085bk ",
+            "Product 2": "lg 2.0 cu.ft . over the range microwave oven "
+        }
+    ],
+    "walmart-amazon-gs": [
+        {
+            "Product 1": "t-mobile t-mobile samsung sgh-t249 prepaid slider camera phone with bluetooth t249 49.84",
+            "Product 2": "samsung samsung t249 prepaid phone blue t-mobile t239 59.99"
+        },
+        {
+            "Product 1": "casio casio exilim ex-zs5 14.1 mp digital camera silver w 5x optical zoom 2.7 lcd display  100.0",
+            "Product 2": "casio casio exilim ex-zs5 14 mp stylish and slim digital camera with 5x wide-angle zoom silver ex-zs5 red "
+        },
+        {
+            "Product 1": "wintec wintec filemate 4gb compactflash memory card 3fmcf4gb-r 15.98",
+            "Product 2": "wintec wintec filemate 32 gb s-professional compactflash card 3fmcf32gbs-r 79.99"
+        },
+        {
+            "Product 1": "pny pny 2gb sd memory card p-sd2gb-fs 6.98",
+            "Product 2": "pny pny optima 2gb sd class 4 flash memory card p-sd2gb-ef p-sd2gb-ef 3.9699999999999998"
+        },
+        {
+            "Product 1": "tp link tp-link tl-ant2405cl 2.4 ghz 5dbi indoor omni-directional antenna tl-ant2405cl 8.88",
+            "Product 2": "tp-link tp-link tl-ant2405c 2.4 ghz 5dbi indoor desktop omni-directional antenna tl-ant2405c 4.49"
+        },
+        {
+            "Product 1": "imation imation 11864 slr-5 data cartridge 11864 55.92",
+            "Product 2": "imation imation slr5-8gb 5.25 data cartridge 84980236206 84980236206 57.26"
+        },
+        {
+            "Product 1": "innovera innovera softskin gel wrist rest black 51452 11.25",
+            "Product 2": "innovera innovera softskin gel wrist rest black  13.17"
+        },
+        {
+            "Product 1": "imation imation 26607 rdx cartridge hard drive 26607 117.84",
+            "Product 2": "imation 160gb cartridge for rdx govt series taa 26718 156.83"
+        },
+        {
+            "Product 1": "comprehensive comprehensive 1 4 standard phone plug to 3-pin xlr jack set of 10 spp-xlrj 79.9",
+            "Product 2": "comprehensive video comprehensive premium - audio adapter - mini-phone 3.5 mm m - 3 pin xlr f  "
+        },
+        {
+            "Product 1": "dane-elec dane-elec 8gb high-speed compact flash memory card dacf3008gc 44.88",
+            "Product 2": "dane-elec dane-elec high speed 300x 8 gb usb 2.0 compact flash card udma da-cf30-08g-c da-cf30-08g-c 29.06"
+        },
+        {
+            "Product 1": "chief manufacturing chief manufacturing dual swing arm lcd wall mount  143.2",
+            "Product 2": "chief chief fwdvb flat panel dual swing arm wall mount 10 -32 displays fwd-vblack 69.99"
+        }
+    ],
+    "amazon-google-gs": [
+        {
+            "Product 1": "global-software-publishing musicalis guitar workshop 9.99",
+            "Product 2": "global-software-publishing musicalis universal guitar workshop 12.9"
+        },
+        {
+            "Product 1": "zero-g zero-g pro pack for garageband ( appleloops ) 169.95",
+            "Product 2": " east west propack for garageband av production software 152.96"
+        },
+        {
+            "Product 1": "stomp inc stomp inc drive washer ",
+            "Product 2": " drive washer 2005 24.99"
+        },
+        {
+            "Product 1": "aladdin the big mix ( mac ) 59.99",
+            "Product 2": " the big mix 36.9"
+        },
+        {
+            "Product 1": "stompsoft inc. digital vault 29.99",
+            "Product 2": " migo software digital vault 2005 24.58"
+        },
+        {
+            "Product 1": "riverdeep riverdeep kissing canines ",
+            "Product 2": " encore software 12491 encore kissing canines screen saver 17.97"
+        },
+        {
+            "Product 1": "microsoft microsoft windows server 2003 client additional license for users-5 pack 809.0",
+            "Product 2": "microsoft microsoft r18-00908 windows server 2003 client access license 20-pack ( per user ) 688.99"
+        },
+        {
+            "Product 1": "whiptail restricted area 19.99",
+            "Product 2": " restricted area ( win 98 me 2000 xp ) 19.99"
+        },
+        {
+            "Product 1": "victory multimedia noah 's ark activity center ( jewel case ages 3-8 ) ",
+            "Product 2": " the beginners bible : noah 's ark activity center : activity center 9.95"
+        },
+        {
+            "Product 1": "riverdeep riverdeep adventure workshop 4th-6th grade 8th edition ",
+            "Product 2": " encore inc adventure workshop 4th-6th grade 8th edition 17.1"
+        },
+        {
+            "Product 1": "dreamcatcher interactive wanted : a wild western adventure 29.99",
+            "Product 2": " dreamcatcher interactive wanted wild willy west 17.55"
+        },
+        {
+            "Product 1": "final draft final draft scriptwriter 's suite [ final draft 7 & final draft av2 ] 349.99",
+            "Product 2": " final-draft scriptwriter 's suite 2.5 screenwriting software mac/win screen writing software 279.95"
+        },
+        {
+            "Product 1": "topics entertainment instant play electric guitar ( jewel box ) 6.99",
+            "Product 2": " instant play electric guitar express ( jc ) 12.9"
+        },
+        {
+            "Product 1": "x-oom movies on psp ",
+            "Product 2": " movies on psp 15.9"
+        },
+        {
+            "Product 1": "freeverse software burning monkey mahjongg ( mac ) 24.99",
+            "Product 2": " freeverse burning monkey mahjong 3d 24.99"
+        }
+    ],
+    "dblp-scholar-gs": [
+        {
+            "Publication 1": "r ng , p shum optimal clip ordering for multi-clip queries vldb j. 1998",
+            "Publication 2": "p shum optimal clip ordering for multi-clip queries  1996.0"
+        },
+        {
+            "Publication 1": "p o'neil , d quass improved query performance with variant indexes sigmod conference 1997",
+            "Publication 2": ", d quass improved query performance with variant indexes  "
+        },
+        {
+            "Publication 1": "g hope enterprise transaction processing on windows nt sigmod conference 1995",
+            "Publication 2": "g hope , c architect enterprise transaction processing on windows nt fortune , 1995.0"
+        },
+        {
+            "Publication 1": "r chirkova , a halevy , d suciu a formal perspective on the view selection problem vldb 2001",
+            "Publication 2": "r chirkova , ay halevy , d suciu a formal perspective on the view selection problem the vldb journal the international journal on very large & 2002.0"
+        },
+        {
+            "Publication 1": "t fukuda , y morimoto , s morishita , t tokuyama data mining with optimized two-dimensional association rules acm trans . database syst . 2001",
+            "Publication 2": "t fukuda , y morimoto , s morishita , t tokuyama optimized two dimensional optimization rules proc . sigmod , "
+        },
+        {
+            "Publication 1": "a bonifati , s ceri comparative analysis of five xml query languages sigmod record 2000",
+            "Publication 2": "a bonifati , s ceri comparative analysis of five xml languages sigmod record , "
+        },
+        {
+            "Publication 1": "a caplinskas , j eder , o vasilecas advances in databases and information systems ( adbis ) sigmod record 2002",
+            "Publication 2": "a caplinskas , j eder advances in databases and information systems  "
+        },
+        {
+            "Publication 1": "a jagatheesan , a rajasekar data grid management systems sigmod conference 2003",
+            "Publication 2": "a jagatheesan , r moore grid data management systems & services proceedings of the international conference on very large & hellip 2003.0"
+        },
+        {
+            "Publication 1": "s white , d dewitt quickstore : a high performance mapped object store sigmod conference 1994",
+            "Publication 2": "sj white , dj dewitt quickstore : a high performance mapped object store the vldb journal the international journal on very large & 1995.0"
+        },
+        {
+            "Publication 1": "d stacey replication : db2 , oracle , or sybase ? sigmod record 1995",
+            "Publication 2": "d stacey replication : db2 oracle or sybase\u00e2 ?? database programming & "
+        },
+        {
+            "Publication 1": "r jain , a hampapur metadata in video databases sigmod record 1994",
+            "Publication 2": "r jam , a hampapur metadata in video databases sigmod record ( acm spectal interest group on management of "
+        },
+        {
+            "Publication 1": "s chakrabarti , s roy , m soundalgekar fast and accurate text classification via multiple linear discriminant projections vldb 2002",
+            "Publication 2": "s chakrabarti , s roy , mv soundalgekar fast and accurate text classification via multiple linear discriminant projections the vldb journal the international journal on very large & 2003.0"
+        },
+        {
+            "Publication 1": "j shanmugasundaram , a nithrakashyap , r sivasankaran , k ramamritham efficient concurrency control for broadcast environments sigmod conference 1999",
+            "Publication 2": "j shanmugasundaram\u00e2 ? \u00a6 efficiellt concurrency control for broadcast environmqmts univ of massachusetts technical report "
+        },
+        {
+            "Publication 1": "d gibson , j kleinberg , p raghavan clustering categorical data : an approach based on dynamical systems vldb 1998",
+            "Publication 2": "d gibson , j kleinberg , p raghavan clustering categorical data : an approach based on dynamical systems the vldb journal the international journal on very large & 2000.0"
+        },
+        {
+            "Publication 1": "s amer-yahia , s cho , l lakshmanan , d srivastava minimization of tree pattern queries sigmod conference 2001",
+            "Publication 2": "s flesca , f furfaro , e masciari minimization of tree patterns queries proceedings of the 29th vldb conf , "
+        },
+        {
+            "Publication 1": "j shanmugasundaram , e shekita , r barr , m carey , b lindsay , h pirahesh , b reinwald efficiently publishing relational data as xml documents vldb j. 2001",
+            "Publication 2": "j shanmugasundaram , e shekita , r barr efficiently publishing xml views of relational databases proc . of vldb , "
+        },
+        {
+            "Publication 1": "m garofalakis , y ioannidis multi-dimensional resource scheduling for parallel queries sigmod conference 1996",
+            "Publication 2": "mn garofalakis , ye ioannidis multi-resource parallel query scheduling and optimization  "
+        },
+        {
+            "Publication 1": "m garofalakis , b \u0436zden , a silberschatz resource scheduling in enhanced pay-per-view continuous media databases vldb 1997",
+            "Publication 2": "mn garofalakis , a silberschatz resource scheduling in enhanced pay-per-view  "
+        },
+        {
+            "Publication 1": "g vossen , m weske the wasa2 object-oriented workflow management system sigmod conference 1999",
+            "Publication 2": "g vossen , m weske the wasa approach to workflow management for scientij applications . in : a. dogac , l. kahnichenko , "
+        },
+        {
+            "Publication 1": "j gray , p helland , p o'neil , d shasha the dangers of replication and a solution sigmod conference 1996",
+            "Publication 2": "g jim , h pat , o patrick , s dennis the danger of replication and a solution procs . of acm sigmod international conf . on management "
+        },
+        {
+            "Publication 1": "s acharya , p gibbons , v poosala , s ramaswamy join synopses for approximate query answering sigmod conference 1999",
+            "Publication 2": "s acharya , pb gibbons join synopses for approximate query answering  "
+        },
+        {
+            "Publication 1": "b goyal , j haritsa , s seshadri , v srinivasan index concurrency control in firm real-time database systems vldb 1995",
+            "Publication 2": "sr narayanan index concurrency control in firm real-time databases  1997.0"
+        },
+        {
+            "Publication 1": "h jagadish , o kapitskaia , r ng , d srivastava multi-dimensional substring selectivity estimation vldb 1999",
+            "Publication 2": "hv jagadish , o kapitskaia , rt ng , d srivastava one-dimensional and multi-dimensional substring selectivity estimation the vldb journal the international journal on very large & 2000.0"
+        },
+        {
+            "Publication 1": "w litwin , t schwarz lh * rs : a high-availability scalable distributed data structure using reed solomon codes sigmod conference 2000",
+            "Publication 2": "w litwin lh * g : a high-availability scalable distributed data structure through record grouping . with t. res . rep. ceria , u. dauphine & u. linkoping "
+        },
+        {
+            "Publication 1": "a marathe , k salem query processing techniques for arrays sigmod conference 1999",
+            "Publication 2": "ap marathe , k salem query processing techniques for arrays the vldb journal the international journal on very large & 2002.0"
+        },
+        {
+            "Publication 1": "j chomicki , d toman , m b\u0456hlen querying atsql databases with temporal logic acm trans . database syst . 2001",
+            "Publication 2": "fb vej , wl branch , o toronto querying atsql databases with temporal logic  "
+        },
+        {
+            "Publication 1": "m brodie , s chaudhuri issues in network management in the next millennium vldb 1999",
+            "Publication 2": "ml brodie , s chaudhuri issues in networked data management in the next millennium  "
+        },
+        {
+            "Publication 1": "j han , y fu discovery of multiple-level association rules from large databases vldb 1995",
+            "Publication 2": "y fu discovery of multiple-level rules from large databases .  "
+        },
+        {
+            "Publication 1": "r jr. , w bohrer , r brice , a cichocki , j fowler , a helal , v kashyap , t ksiezyk , g martin , m nodine , m rashid , m rusinkiewicz , r shea , c unnikrishnan , a unruh , d woelk the infosleuth project sigmod conference 1997",
+            "Publication 2": "acms anthology , p edition the infosleuth project .  "
+        },
+        {
+            "Publication 1": "t yan , j annevelink integrating a structured-text retrieval system with an object-oriented database system vldb 1994",
+            "Publication 2": "tw yantt , j annevelinkt integrating a structured-text retrieval system with an object-oriented database system  "
+        },
+        {
+            "Publication 1": "s choo , w o'connell , g linderman , h chen , k ganapathi , a biliris , e panagos , d schrader prospector : a content-based multimedia server for massively parallel architectures sigmod conference 1996",
+            "Publication 2": "wo ` connell , it ieong , d schrader , c watson , g au , a content-based multimedia server for massively parallel architectures sigmod conference , "
+        },
+        {
+            "Publication 1": "s white , d dewitt quickstore : a high performance mapped object store vldb j. 1995",
+            "Publication 2": "sj white , dos dewitt a high performance mapped object store proceedings of the acm sigmod conference on the management "
+        },
+        {
+            "Publication 1": "a zhang , m nodine , b bhargava , o bukhres ensuring relaxed atomicity for flexible transactions in multidatabase systems sigmod conference 1994",
+            "Publication 2": "a zhang , m nordine , b bhargava , o bukhres ensuring semi-atomicity for flexible transactions in multi-database system proc . sigmod "
+        },
+        {
+            "Publication 1": "w litwin , t schwarz lh * rs : a high-availability scalable distributed data structure using reed solomon codes sigmod conference 2000",
+            "Publication 2": "w litwin , t risch lh * g : a high-availability scalable distributed data structure through record grouping res . rep. ceria , u. dauphine & u. linkoping "
+        }
+    ],
+    "wdcproducts-80cc-seen-gs": [
+        {
+            "Product 1": " Traveler's Notebook Accessories - Slip Case AUD 12.00",
+            "Product 2": " 008 Traveler's Notebook Regular- Refill - Zipper Case USD 10.0"
+        },
+        {
+            "Product 1": " 5 Pack: UniFi AC Outdoor AP Mesh Pro Dual-omni ant no PoE adapers (UAP-AC-M-PRO-5) SEK 10609.00",
+            "Product 2": "Ubiquiti Punct de acces Pachet 5 Bucati UAP-AC UniFi Alb  4,314.99 Lei;"
+        },
+        {
+            "Product 1": "RAM RAM Long Clamp RAM Standard Balls(RAM-201U-D) AUD 72.00",
+            "Product 2": " RAM\u00ae Double Socket Arm C Size EUR 43"
+        },
+        {
+            "Product 1": "D-LINK D-Link Switch 24 Puertos 10/100/1Gbit w/4 Combo 1000BaseT/SFP - Red  149.0",
+            "Product 2": " D-Link DGS-1210-24 GBP 126.15"
+        },
+        {
+            "Product 1": " DLINK - DGS-1210-28P - 28 Port Gigabit Smart Managed POE Switch INR 40425",
+            "Product 2": " D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM ZAR 7689.19"
+        },
+        {
+            "Product 1": " Jabra Evolve 20 Duo UC USB Headset GBP 39.34",
+            "Product 2": " JABRA EVOLVE 20 MS STEREO NC BIN HKD 503.250"
+        },
+        {
+            "Product 1": " Epson atrament WP4000/4500 series magenta XL C13T70234010 EUR 39.05",
+            "Product 2": " Epson - Print cartridge - XL size - 1 x magenta - 2000 pages GBP 37.83"
+        },
+        {
+            "Product 1": " Ilford FP4+ 125 B&W 120 Film USD 5.99",
+            "Product 2": "Canon Canon EF-S 18-200mm f/3.5-5.6 IS Lens  "
+        },
+        {
+            "Product 1": " Ubiquiti UniFi Protect Video Security  ",
+            "Product 2": " Ubiquiti UniFi UCK-G2-PLUS Cloud Key Gen2 PLUS NZD 4.0512E2"
+        },
+        {
+            "Product 1": " Evolis Zenius & Primacy Black Printer Ribbon RCT023NAA USD 19.95",
+            "Product 2": " Evolis Primacy RibbonBlack Ribbon 2000 Prints For use with Evolis PrimacyUnsure which ribbon you need? Give us a call on 0567712650 or send us an email: sales@cardlogic.ie - we'll set you right EUR 37.48"
+        },
+        {
+            "Product 1": " Epson T6164 Patron Yellow 3,5K (Eredeti)  18514",
+            "Product 2": "Epson B-500DN STD CAP YELLOW GBP 50.77"
+        },
+        {
+            "Product 1": "RAM Mounts RAP-B-224-1U - RAM Composite 3.3\\\" Diameter Suction Cup Base with 1\\\" Ball  ",
+            "Product 2": " Ram Mount 2.75 Suction Cup Base with 1 Ball GBP 1.899E1"
+        },
+        {
+            "Product 1": "APC APC Battery Unit - 120 V DC - Sealed Lead Acid - Spill-proof/Maintenance-free - 3 Year Minimum Battery Life - 5 Year Maximum Battery Life GBP 643.12",
+            "Product 2": " Akumulator APC Replacement battery cartridge #140 PLN 2608.46"
+        },
+        {
+            "Product 1": " New Era 9FORTY MLB New York Yankees Strapback - 10047538 CZK 460.00",
+            "Product 2": "New Era NEW ERA M\u00dcTZE THE LEAGUE GM NY YANKEES EUR 24.99"
+        },
+        {
+            "Product 1": " Ubiquiti Networks UniFi AC HD 1700Mbit/s Power over Ethernet (PoE) Wit WLAN toegangspunt EUR 1.65895E3",
+            "Product 2": " Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti EUR 1219.00"
+        },
+        {
+            "Product 1": "RAM RAM Long Double Clamp for B Size(RAM-B-201U-C) AUD 33.00",
+            "Product 2": " RAM 6\\\" Double Socket Arm for 1\\\" Ball Bases AUD $17.40 (AUD)"
+        },
+        {
+            "Product 1": "edelkrone Manfrotto 502AH Pro Video Head with Flat Base EUR 200.0",
+            "Product 2": "Manfrotto Manfrotto Pro Fluid Video-Neiger m.fl.Basis+504PL EUR 154.99"
+        },
+        {
+            "Product 1": " Manfrotto MVH500A Fluid Drag Video Head with MVT502AM Tripod and Carry Bag ZAR 9.479E3",
+            "Product 2": " Manfrotto MVK500AM Tripod Kit Alum Twin Leg AUD 661.1"
+        },
+        {
+            "Product 1": "RAM Mount RAM Mount Dual Suction Cup Base with with Universal AMPs Hole Pattern AUD 60.00",
+            "Product 2": " RAM Suction Cup Double Base without ball ISK 7900"
+        },
+        {
+            "Product 1": " Epson C1100 High Capacity Cyan GBP 151.42",
+            "Product 2": " Toner Cyan 4000 pages - C13S050189 EUR 218.99"
+        },
+        {
+            "Product 1": " EPSON - Ink Cart/XL Yellow WF-8xxx NOK 901.25",
+            "Product 2": " Epson T7554 Patron Yellow 4K (Eredeti)  24321"
+        },
+        {
+            "Product 1": " DISCO DURO EXT USB3.0 2.54TB WD MY PASSPORT NEGRO EUR 127.56",
+            "Product 2": " WD 4TB My Passport Portable Hard Drive KES 16000.00"
+        },
+        {
+            "Product 1": " DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)  ",
+            "Product 2": " HIKVISION DS-7216HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 16 CHANNEL DVR  "
+        },
+        {
+            "Product 1": " Zebra Black Printer Ribbon for P310F, P310C, P420C, P520C & P720C ID Card Printers USD 21.51",
+            "Product 2": "zebra Zebra C Series Black Ribbon 800015-301  "
+        },
+        {
+            "Product 1": " TP-LINK jetstream - switch - 24 x 10/100/1000 - montabile su rack EUR 87.7",
+            "Product 2": "TP-Link TP-Link TL-SG1024DE 24port Gigabit Desktop Switch HUF 35455.86"
+        },
+        {
+            "Product 1": " Garmin Fenix 5 Multisport GPS Watch USD 299.95",
+            "Product 2": " Garmin fenix 5X Sapphire Slate Gray / Black Band PLN 2239"
+        },
+        {
+            "Product 1": "Zebra Zebra TrueColours ix Series Monochrome NOK 155",
+            "Product 2": " ZEBRA 800033-801 BLACK RIBBON (1000 PRINTS) GBP 9.5"
+        },
+        {
+            "Product 1": " Kingston Gaming Memory 16 Gb 3200 Mhz Ddr4 Nonecc Dimm Cl16 Limited Lifetime Warranty ZAR 2.229E3",
+            "Product 2": "Kingston HyperX Fury black HX432C16FB3/16 EUR 89.00"
+        }
+    ]
+}

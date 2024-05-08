@@ -1,0 +1,130 @@
+{
+    "abt-buy-gs": [
+        {
+            "product 1": "{\"id\":\"abt_805\",\"name\":\"canon deluxe grey leather case 2349b001\",\"description\":\"canon deluxe grey leather case 2349b001 genuine leather case designed for the powershot sd770 is , sd1100 and sd1000 grey finish\",\"price\":\"\",\"cluster_id\":865}",
+            "product 2": "\"id\":\"buy_470\",\"name\":\"canon psc-1000 semi-hard leather case 2349b001\",\"description\":\"canon psc-1000 deluxe grey leather case\",\"price\":19.99,\"cluster_id\":865}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_36\",\"name\":\"cuisinart automatic brew and serve coffeemaker dtc975bk\",\"description\":\"cuisinart automatic brew and serve coffeemaker dtc975bk 12-cup double-wall insulated stainless steel carafe fully automatic with 24-hour programmability patented brew-through and pour-through lid brew pause feature automatic shutoff black and stainless steel finish\",\"price\":99.95,\"cluster_id\":873}",
+            "product 2": "\"id\":\"buy_228\",\"name\":\"cuisinart brew & serve stainless therm black 10-cup coffee maker\",\"description\":\"\",\"price\":99.95,\"cluster_id\":873}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_410\",\"name\":\"apple 500gb time capsule wireless hard drive mb276lla\",\"description\":\"apple 500gb time capsule wireless hard drive mb276lla 500gb 7200-rpm serial ata server-grade hard disk drive up to 5x the performance and 2x the range with 802.11 n wi-fi protected access ( wpa\\/wpa2 ) wireless security ( wep ) configurable for 40-bit and 128-bit encryption nat firewall airport utility for mac and windows\",\"price\":299.0,\"cluster_id\":854}",
+            "product 2": "\"id\":\"buy_645\",\"name\":\"apple time capsule network hard drive mb277ll\\/a\",\"description\":\"1tb type a usb\",\"price\":439.0,\"cluster_id\":854}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_41\",\"name\":\"maytag bisque over-the-range microwave oven mmv4205bt\",\"description\":\"maytag bisque over-the-range microwave oven mmv4205bt 2.0 cu . ft. capacity 1,150 watts ten power levels 220 cfm airflow with two adjustable fan speeds scrolling vfd display twelve instant touch pads precision touch electronic controls digital display with clock and kitchen timer bisque finish\",\"price\":\"\",\"cluster_id\":896}",
+            "product 2": "\"id\":\"buy_811\",\"name\":\"maytag mmv4205baq over-the-range microwave\",\"description\":\"\",\"price\":\"\",\"cluster_id\":896}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_814\",\"name\":\"sony bud style headphones in silver mdred12lpslv\",\"description\":\"sony bud style headphones in silver mdred12lpslv 16mm drivers crisp sound neodymium magnets offer powerful sound reproduction convenient cord slider reduces tangles 3.9 ft. cord length frequency response of 8-22 ,000 hz silver finish\",\"price\":14.0,\"cluster_id\":934}",
+            "product 2": "\"id\":\"buy_702\",\"name\":\"bass lover earbuds slver mdred12lp\\/slv\",\"description\":\"\",\"price\":10.99,\"cluster_id\":934}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_322\",\"name\":\"apple mini-dvi to dvi adapter m9321gb\",\"description\":\"apple mini-dvi to dvi adapter m9321gb compatible with imac ( intel core duo ) , macbook and 12 ' powerbook g4 connects to an external dvi monitor or projector white finish\",\"price\":19.0,\"cluster_id\":967}",
+            "product 2": "\"id\":\"buy_156\",\"name\":\"apple dvi to mini-dvi video cable adapter m9321gb\",\"description\":\"mini-dvi male to 24-pin dvi-d ( digital ) male\",\"price\":19.99,\"cluster_id\":967}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_121\",\"name\":\"tivo wireless adapter ag0100\",\"description\":\"tivo wireless adapter ag0100 for use with a tivo series 2 only flip-up antenna optimized wireless performance\",\"price\":\"\",\"cluster_id\":147}",
+            "product 2": "\"id\":\"buy_371\",\"name\":\"tvio wireless usb network adpator\",\"description\":\"\",\"price\":\"\",\"cluster_id\":147}"
+        },
+        {
+            "product 1": "{\"id\":\"abt_409\",\"name\":\"logitech dinovo media desktop laser keyboard and mouse combo 967562\",\"description\":\"logitech dinovo media desktop laser keyboard and mouse combo 967562 unique ultra-flat keyboard detached customizable mediapad precision rechargeable laser mouse tilt wheel plus zoom customizable hotkeys dedicated search buttons bluetooth wireless technology compatible black and gray finish\",\"price\":199.0,\"cluster_id\":257}",
+            "product 2": "\"id\":\"buy_96\",\"name\":\"logitech cordless desktop mx 5000 laser 967562-0403\",\"description\":\"keyboard wireless 104 keys mouse laser type a usb receiver\",\"price\":\"\",\"cluster_id\":257}"
+        }
+    ],
+    "walmart-amazon-gs": [
+        {
+            "product 1": "{\"id\":\"walmart_498\",\"title\":\"t-mobile samsung sgh-t249 prepaid slider camera phone with bluetooth\",\"category\":\"prepaid wireless phones\",\"brand\":\"t-mobile\",\"modelno\":\"t249\",\"price\":49.84,\"cluster_id\":687}",
+            "product 2": "\"id\":\"amazon_5577\",\"title\":\"samsung t249 prepaid phone blue t-mobile\",\"category\":\"no-contract phones\",\"brand\":\"samsung\",\"modelno\":\"t239\",\"price\":59.99,\"cluster_id\":687}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_382\",\"title\":\"casio exilim ex-zs5 14.1 mp digital camera silver w 5x optical zoom 2.7 lcd display\",\"category\":\"digital cameras\",\"brand\":\"casio\",\"modelno\":\"\",\"price\":100.0,\"cluster_id\":714}",
+            "product 2": "\"id\":\"amazon_12582\",\"title\":\"casio exilim ex-zs5 14 mp stylish and slim digital camera with 5x wide-angle zoom silver\",\"category\":\"point shoot digital cameras\",\"brand\":\"casio\",\"modelno\":\"ex-zs5 red\",\"price\":\"\",\"cluster_id\":714}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_2018\",\"title\":\"wintec filemate 4gb compactflash memory card\",\"category\":\"usb drives\",\"brand\":\"wintec\",\"modelno\":\"3fmcf4gb-r\",\"price\":15.98,\"cluster_id\":270}",
+            "product 2": "\"id\":\"amazon_11227\",\"title\":\"wintec filemate 32 gb s-professional compactflash card\",\"category\":\"memory cards\",\"brand\":\"wintec\",\"modelno\":\"3fmcf32gbs-r\",\"price\":79.99,\"cluster_id\":270}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_544\",\"title\":\"pny 2gb sd memory card\",\"category\":\"usb drives\",\"brand\":\"pny\",\"modelno\":\"p-sd2gb-fs\",\"price\":6.98,\"cluster_id\":752}",
+            "product 2": "\"id\":\"amazon_13664\",\"title\":\"pny optima 2gb sd class 4 flash memory card p-sd2gb-ef\",\"category\":\"memory cards\",\"brand\":\"pny\",\"modelno\":\"p-sd2gb-ef\",\"price\":3.97,\"cluster_id\":752}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1851\",\"title\":\"tp-link tl-ant2405cl 2.4 ghz 5dbi indoor omni-directional antenna\",\"category\":\"networking\",\"brand\":\"tp link\",\"modelno\":\"tl-ant2405cl\",\"price\":8.88,\"cluster_id\":766}",
+            "product 2": "\"id\":\"amazon_13348\",\"title\":\"tp-link tl-ant2405c 2.4 ghz 5dbi indoor desktop omni-directional antenna\",\"category\":\"networking products\",\"brand\":\"tp-link\",\"modelno\":\"tl-ant2405c\",\"price\":4.49,\"cluster_id\":766}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_108\",\"title\":\"imation 26607 rdx cartridge hard drive\",\"category\":\"hard drives\",\"brand\":\"imation\",\"modelno\":\"26607\",\"price\":117.84,\"cluster_id\":391}",
+            "product 2": "\"id\":\"amazon_12441\",\"title\":\"160gb cartridge for rdx govt series taa\",\"category\":\"\",\"brand\":\"imation\",\"modelno\":\"26718\",\"price\":156.83,\"cluster_id\":391}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1549\",\"title\":\"comprehensive 1 4 standard phone plug to 3-pin xlr jack set of 10\",\"category\":\"tv accessories\",\"brand\":\"comprehensive\",\"modelno\":\"spp-xlrj\",\"price\":79.9,\"cluster_id\":807}",
+            "product 2": "\"id\":\"amazon_18948\",\"title\":\"comprehensive premium - audio adapter - mini-phone 3.5 mm m - 3 pin xlr f\",\"category\":\"connectors adapters\",\"brand\":\"comprehensive video\",\"modelno\":\"\",\"price\":\"\",\"cluster_id\":807}"
+        },
+        {
+            "product 1": "{\"id\":\"walmart_1937\",\"title\":\"kingston kth-mlg4 2g 2gb ddr2 240-pin sdram server memory module\",\"category\":\"memory\",\"brand\":\"kingston\",\"modelno\":\"kth-mlg4 \\/ 2g\",\"price\":55.92,\"cluster_id\":811}",
+            "product 2": "\"id\":\"amazon_8500\",\"title\":\"kingston memory - 2 gb 2 x 1 gb - dimm 240-pin - ddr ii kth-mlg4 2g\",\"category\":\"memory\",\"brand\":\"kingston\",\"modelno\":\"kth-mlg4 \\/ 2g\",\"price\":52.68,\"cluster_id\":811}"
+        }
+    ],
+    "amazon-google-gs": [
+        {
+            "product 1": "{\"id\":\"amazon_797\",\"title\":\"zero-g pro pack for garageband ( appleloops )\",\"manufacturer\":\"zero-g\",\"price\":169.95,\"cluster_id\":843}",
+            "product 2": "\"id\":\"google_2597\",\"title\":\"east west propack for garageband av production software\",\"manufacturer\":\"\",\"price\":152.96,\"cluster_id\":843}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_531\",\"title\":\"microsoft windows server 2003 client additional license for users-5 pack\",\"manufacturer\":\"microsoft\",\"price\":809.0,\"cluster_id\":877}",
+            "product 2": "\"id\":\"google_2513\",\"title\":\"microsoft r18-00908 windows server 2003 client access license 20-pack ( per user )\",\"manufacturer\":\"microsoft\",\"price\":688.99,\"cluster_id\":877}"
+        },
+        {
+            "product 1": "{\"id\":\"amazon_965\",\"title\":\"pinnacle mobile media organizer\",\"manufacturer\":\"pinnacle\",\"price\":49.99,\"cluster_id\":898}",
+            "product 2": "\"id\":\"google_2314\",\"title\":\"pinnacle mobile media organizer software for windows ipod software\",\"manufacturer\":\"\",\"price\":39.95,\"cluster_id\":898}"
+        }
+    ],
+    "dblp-scholar-gs": [
+        {
+            "product 1": "{\"id\":\"dblp_1435\",\"title\":\"multi-dimensional substring selectivity estimation\",\"authors\":\"h jagadish , o kapitskaia , r ng , d srivastava\",\"venue\":\"vldb\",\"year\":1999,\"cluster_id\":14}",
+            "product 2": "\"id\":\"scholar_53218\",\"title\":\"one-dimensional and multi-dimensional substring selectivity estimation\",\"authors\":\"hv jagadish , o kapitskaia , rt ng , d srivastava\",\"venue\":\"the vldb journal the international journal on very large & hellip ; ,\",\"year\":2000.0,\"cluster_id\":14}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_746\",\"title\":\"minimization of tree pattern queries\",\"authors\":\"s amer-yahia , s cho , l lakshmanan , d srivastava\",\"venue\":\"sigmod conference\",\"year\":2001,\"cluster_id\":1183}",
+            "product 2": "\"id\":\"scholar_11508\",\"title\":\"minimization of tree patterns queries\",\"authors\":\"s flesca , f furfaro , e masciari\",\"venue\":\"proceedings of the 29th vldb conf ,\",\"year\":\"\",\"cluster_id\":1183}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_56\",\"title\":\"index concurrency control in firm real-time database systems\",\"authors\":\"b goyal , j haritsa , s seshadri , v srinivasan\",\"venue\":\"vldb\",\"year\":1995,\"cluster_id\":2007}",
+            "product 2": "\"id\":\"scholar_19504\",\"title\":\"index concurrency control in firm real-time databases\",\"authors\":\"sr narayanan\",\"venue\":\"\",\"year\":1997.0,\"cluster_id\":2007}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_832\",\"title\":\"lh * rs : a high-availability scalable distributed data structure using reed solomon codes\",\"authors\":\"w litwin , t schwarz\",\"venue\":\"sigmod conference\",\"year\":2000,\"cluster_id\":720}",
+            "product 2": "\"id\":\"scholar_42380\",\"title\":\"lh * g : a high-availability scalable distributed data structure through record grouping\",\"authors\":\"w litwin , t risch\",\"venue\":\"res . rep. ceria , u. dauphine & u. linkoping ( may .\",\"year\":\"\",\"cluster_id\":720}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1930\",\"title\":\"standards for databases on the grid\",\"authors\":\"s malaika , a eisenberg , j melton\",\"venue\":\"sigmod record\",\"year\":2003,\"cluster_id\":1979}",
+            "product 2": "\"id\":\"scholar_46568\",\"title\":\"standards for databases on the grid\",\"authors\":\"gc introduction\",\"venue\":\"sigmod record ,\",\"year\":2003.0,\"cluster_id\":1979}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_832\",\"title\":\"lh * rs : a high-availability scalable distributed data structure using reed solomon codes\",\"authors\":\"w litwin , t schwarz\",\"venue\":\"sigmod conference\",\"year\":2000,\"cluster_id\":720}",
+            "product 2": "\"id\":\"scholar_59034\",\"title\":\"lh * g : a high-availability scalable distributed data structure through record grouping . with t.\",\"authors\":\"w litwin\",\"venue\":\"res . rep. ceria , u. dauphine & u. linkoping ( may . 1997 ) . (\",\"year\":\"\",\"cluster_id\":720}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1520\",\"title\":\"multi-dimensional resource scheduling for parallel queries\",\"authors\":\"m garofalakis , y ioannidis\",\"venue\":\"sigmod conference\",\"year\":1996,\"cluster_id\":1497}",
+            "product 2": "\"id\":\"scholar_47068\",\"title\":\"multi-resource parallel query scheduling and optimization\",\"authors\":\"mn garofalakis , ye ioannidis\",\"venue\":\"\",\"year\":\"\",\"cluster_id\":538}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_288\",\"title\":\"data grid management systems\",\"authors\":\"a jagatheesan , a rajasekar\",\"venue\":\"sigmod conference\",\"year\":2003,\"cluster_id\":809}",
+            "product 2": "\"id\":\"scholar_20657\",\"title\":\"grid data management systems & services\",\"authors\":\"a jagatheesan , r moore\",\"venue\":\"proceedings of the international conference on very large & hellip ; ,\",\"year\":2003.0,\"cluster_id\":679}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1324\",\"title\":\"similarity-based queries for time series data\",\"authors\":\"d rafiei , a mendelzon\",\"venue\":\"sigmod conference\",\"year\":1997,\"cluster_id\":1169}",
+            "product 2": "\"id\":\"scholar_19024\",\"title\":\"similarity-based queries for sequences data\",\"authors\":\"d rafiei , a mendelzon\",\"venue\":\"proc . of the acm sigmod conference on management of data (\",\"year\":\"\",\"cluster_id\":1169}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_1060\",\"title\":\"query processing techniques for arrays\",\"authors\":\"a marathe , k salem\",\"venue\":\"sigmod conference\",\"year\":1999,\"cluster_id\":2059}",
+            "product 2": "\"id\":\"scholar_37291\",\"title\":\"query processing techniques for arrays\",\"authors\":\"ap marathe , k salem\",\"venue\":\"the vldb journal the international journal on very large & hellip ; ,\",\"year\":2002.0,\"cluster_id\":2059}"
+        },
+        {
+            "product 1": "{\"id\":\"dblp_2332\",\"title\":\"data mining with optimized two-dimensional association rules\",\"authors\":\"t fukuda , y morimoto , s morishita , t tokuyama\",\"venue\":\"acm trans . database syst .\",\"year\":2001,\"cluster_id\":1017}",
+            "product 2": "\"id\":\"scholar_42751\",\"title\":\"optimized two dimensional optimization rules\",\"authors\":\"t fukuda , y morimoto , s morishita , t tokuyama\",\"venue\":\"proc . sigmod ,\",\"year\":\"\",\"cluster_id\":709}"
+        }
+    ]
+}
